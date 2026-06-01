@@ -1,0 +1,481 @@
+2026-05-26 00:06:37.688 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-26 00:06:37.736 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-26 00:06:37.740 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-26 00:06:37.742 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-26 00:06:37.743 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2026-05-26 00:06:37.743 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-26 00:06:37.744 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-26 00:06:37.877 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-26 00:06:37.882 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-26 00:06:37.886 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_FunCommands
+2026-05-26 00:06:37.897 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin Fun Commands
+2026-05-26 00:06:37.900 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-26 00:06:37.925 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-26 00:06:37.929 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-26 00:06:37.930 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-26 00:06:37.934 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-26 00:06:37.954 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-26 00:06:37.961 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-26 00:06:37.962 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-26 00:06:37.965 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-26 00:06:37.967 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-26 00:06:37.970 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_StealthModule
+2026-05-26 00:06:37.973 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [CS2-SimpleAdmin] Stealth Module
+2026-05-26 00:06:37.985 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-26 00:06:38.078 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-05-26 00:06:38.084 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-26 00:06:38.085 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-26 00:06:38.090 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-26 00:06:38.096 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-26 00:06:45.960 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 00:06:47.951 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 00:32:52.197 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-26 00:32:52.243 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-26 00:32:52.247 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-26 00:32:52.248 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-26 00:32:52.249 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2026-05-26 00:32:52.249 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-26 00:32:52.249 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-26 00:32:52.386 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-26 00:32:52.391 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-26 00:32:52.395 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_FunCommands
+2026-05-26 00:32:52.406 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin Fun Commands
+2026-05-26 00:32:52.410 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-26 00:32:52.438 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-26 00:32:52.442 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-26 00:32:52.444 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-26 00:32:52.448 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-26 00:32:52.469 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-26 00:32:52.475 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-26 00:32:52.476 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-26 00:32:52.480 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-26 00:32:52.482 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-26 00:32:52.485 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_StealthModule
+2026-05-26 00:32:52.488 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [CS2-SimpleAdmin] Stealth Module
+2026-05-26 00:32:52.499 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-26 00:32:52.512 +03:00 [EROR] (cssharp:PluginManager) Failed to load plugin from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/plugins/CS2-SimpleAdmin/CS2-SimpleAdmin.dll
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to System.Collections.Generic.List`1[System.String]. Path: $.DefaultMaps | LineNumber: 196 | BytePositionInLine: 20.
+   at System.Text.Json.ThrowHelper.ThrowJsonException_DeserializeUnableToConvertValue(Type propertyType)
+   at System.Text.Json.Serialization.JsonCollectionConverter`2.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, TCollection& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Metadata.JsonPropertyInfo`1.ReadJsonAndSetMember(Object obj, ReadStack& state, Utf8JsonReader& reader)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at CounterStrikeSharp.API.Modules.Config.ConfigManager.Deserialize[T](String path) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Config/ConfigManager.cs:line 121
+   at CounterStrikeSharp.API.Modules.Config.ConfigManager.Load[T](String pluginName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Config/ConfigManager.cs:line 72
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at CounterStrikeSharp.API.Core.BasePlugin.InitializeConfig(Object instance, Type pluginType) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 415
+   at CounterStrikeSharp.API.Core.Plugin.PluginContext.Load(Boolean hotReload) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/PluginContext.cs:line 226
+   at CounterStrikeSharp.API.Core.Plugin.Host.PluginManager.LoadPlugin(String path) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/Host/PluginManager.cs:line 189
+   at CounterStrikeSharp.API.Core.Plugin.Host.PluginManager.Load() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/Host/PluginManager.cs:line 106
+2026-05-26 00:32:52.520 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-26 00:32:52.521 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-26 00:32:52.525 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-26 00:32:52.531 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-26 00:32:52.532 +03:00 [EROR] (cssharp:PluginManager) OnAllPluginsLoaded failed
+System.Collections.Generic.KeyNotFoundException: The given key 'simpleadmin:api' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CounterStrikeSharp.API.Core.Capabilities.PluginCapability`1.Get() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Capabilities/PluginCapability.cs:line 17
+   at CS2_SimpleAdmin_FunCommands.CS2_SimpleAdmin_FunCommands.OnAllPluginsLoaded(Boolean hotReload) in /home/runner/work/CS2-SimpleAdmin/CS2-SimpleAdmin/Modules/CS2-SimpleAdmin_FunCommands/CS2-SimpleAdmin_FunCommands/CS2-SimpleAdmin_FunCommands.cs:line 104
+   at CounterStrikeSharp.API.Core.Plugin.Host.PluginManager.Load() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/Host/PluginManager.cs:line 119
+2026-05-26 00:32:54.767 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CS2_SimpleAdmin.RegisterCommands.Register()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101
+2026-05-26 00:38:54.253 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-26 00:38:54.299 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-26 00:38:54.301 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-26 00:38:54.303 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-26 00:38:54.303 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2026-05-26 00:38:54.304 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-26 00:38:54.304 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-26 00:38:54.429 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-26 00:38:54.433 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-26 00:38:54.437 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_FunCommands
+2026-05-26 00:38:54.446 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin Fun Commands
+2026-05-26 00:38:54.450 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-26 00:38:54.474 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-26 00:38:54.477 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-26 00:38:54.479 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-26 00:38:54.482 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-26 00:38:54.501 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-26 00:38:54.506 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-26 00:38:54.507 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-26 00:38:54.511 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-26 00:38:54.512 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-26 00:38:54.515 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_StealthModule
+2026-05-26 00:38:54.518 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [CS2-SimpleAdmin] Stealth Module
+2026-05-26 00:38:54.529 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-26 00:38:54.542 +03:00 [EROR] (cssharp:PluginManager) Failed to load plugin from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/plugins/CS2-SimpleAdmin/CS2-SimpleAdmin.dll
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to System.Collections.Generic.List`1[System.String]. Path: $.DefaultMaps | LineNumber: 196 | BytePositionInLine: 20.
+   at System.Text.Json.ThrowHelper.ThrowJsonException_DeserializeUnableToConvertValue(Type propertyType)
+   at System.Text.Json.Serialization.JsonCollectionConverter`2.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, TCollection& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Metadata.JsonPropertyInfo`1.ReadJsonAndSetMember(Object obj, ReadStack& state, Utf8JsonReader& reader)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at CounterStrikeSharp.API.Modules.Config.ConfigManager.Deserialize[T](String path) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Config/ConfigManager.cs:line 121
+   at CounterStrikeSharp.API.Modules.Config.ConfigManager.Load[T](String pluginName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Config/ConfigManager.cs:line 72
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at CounterStrikeSharp.API.Core.BasePlugin.InitializeConfig(Object instance, Type pluginType) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 415
+   at CounterStrikeSharp.API.Core.Plugin.PluginContext.Load(Boolean hotReload) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/PluginContext.cs:line 226
+   at CounterStrikeSharp.API.Core.Plugin.Host.PluginManager.LoadPlugin(String path) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/Host/PluginManager.cs:line 189
+   at CounterStrikeSharp.API.Core.Plugin.Host.PluginManager.Load() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/Host/PluginManager.cs:line 106
+2026-05-26 00:38:54.549 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-26 00:38:54.550 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-26 00:38:54.554 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-26 00:38:54.560 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-26 00:38:54.560 +03:00 [EROR] (cssharp:PluginManager) OnAllPluginsLoaded failed
+System.Collections.Generic.KeyNotFoundException: The given key 'simpleadmin:api' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CounterStrikeSharp.API.Core.Capabilities.PluginCapability`1.Get() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Capabilities/PluginCapability.cs:line 17
+   at CS2_SimpleAdmin_FunCommands.CS2_SimpleAdmin_FunCommands.OnAllPluginsLoaded(Boolean hotReload) in /home/runner/work/CS2-SimpleAdmin/CS2-SimpleAdmin/Modules/CS2-SimpleAdmin_FunCommands/CS2-SimpleAdmin_FunCommands/CS2-SimpleAdmin_FunCommands.cs:line 104
+   at CounterStrikeSharp.API.Core.Plugin.Host.PluginManager.Load() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/Host/PluginManager.cs:line 119
+2026-05-26 00:38:56.799 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CS2_SimpleAdmin.RegisterCommands.Register()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101
+2026-05-26 00:45:19.672 +03:00 [INFO] (cssharp:PluginContext) Plugin [CS2-SimpleAdmin] Stealth Module has been deleted, unloading...
+2026-05-26 00:45:19.672 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin [CS2-SimpleAdmin] Stealth Module
+2026-05-26 00:45:19.674 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin [CS2-SimpleAdmin] Stealth Module
+2026-05-26 00:45:19.687 +03:00 [INFO] (cssharp:PluginContext) Plugin CS2-SimpleAdmin Fun Commands has been deleted, unloading...
+2026-05-26 00:45:19.688 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin CS2-SimpleAdmin Fun Commands
+2026-05-26 00:45:19.689 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin CS2-SimpleAdmin Fun Commands
+2026-05-26 00:57:14.058 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-26 00:57:14.105 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-26 00:57:14.109 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-26 00:57:14.110 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-26 00:57:14.124 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 00:57:14.124 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-26 00:57:14.125 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-26 00:57:14.277 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-26 00:57:14.283 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-26 00:57:14.287 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-26 00:57:14.321 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-26 00:57:14.325 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-26 00:57:14.327 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-26 00:57:14.331 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-26 00:57:14.352 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-26 00:57:14.356 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-26 00:57:14.357 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-26 00:57:14.362 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-26 00:57:14.364 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-26 00:57:14.375 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-26 00:57:14.390 +03:00 [EROR] (cssharp:PluginManager) Failed to load plugin from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/plugins/CS2-SimpleAdmin/CS2-SimpleAdmin.dll
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to System.Collections.Generic.List`1[System.String]. Path: $.DefaultMaps | LineNumber: 196 | BytePositionInLine: 20.
+   at System.Text.Json.ThrowHelper.ThrowJsonException_DeserializeUnableToConvertValue(Type propertyType)
+   at System.Text.Json.Serialization.JsonCollectionConverter`2.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, TCollection& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Metadata.JsonPropertyInfo`1.ReadJsonAndSetMember(Object obj, ReadStack& state, Utf8JsonReader& reader)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at CounterStrikeSharp.API.Modules.Config.ConfigManager.Deserialize[T](String path) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Config/ConfigManager.cs:line 121
+   at CounterStrikeSharp.API.Modules.Config.ConfigManager.Load[T](String pluginName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Config/ConfigManager.cs:line 72
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at CounterStrikeSharp.API.Core.BasePlugin.InitializeConfig(Object instance, Type pluginType) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 415
+   at CounterStrikeSharp.API.Core.Plugin.PluginContext.Load(Boolean hotReload) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/PluginContext.cs:line 226
+   at CounterStrikeSharp.API.Core.Plugin.Host.PluginManager.LoadPlugin(String path) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/Host/PluginManager.cs:line 189
+   at CounterStrikeSharp.API.Core.Plugin.Host.PluginManager.Load() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/Host/PluginManager.cs:line 106
+2026-05-26 00:57:14.397 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-26 00:57:14.398 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-26 00:57:14.402 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-26 00:57:14.409 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-26 00:57:16.631 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CS2_SimpleAdmin.RegisterCommands.Register()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101
+2026-05-26 01:09:36.968 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-26 01:09:37.015 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-26 01:09:37.019 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-26 01:09:37.021 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-26 01:09:37.026 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 01:09:37.026 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-26 01:09:37.027 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-26 01:09:37.169 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-26 01:09:37.175 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-26 01:09:37.179 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_FunCommands
+2026-05-26 01:09:37.193 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin Fun Commands
+2026-05-26 01:09:37.197 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-26 01:09:37.222 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-26 01:09:37.226 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-26 01:09:37.227 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-26 01:09:37.231 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-26 01:09:37.253 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-26 01:09:37.260 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-26 01:09:37.263 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-26 01:09:37.267 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-26 01:09:37.269 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-26 01:09:37.272 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_StealthModule
+2026-05-26 01:09:37.277 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [CS2-SimpleAdmin] Stealth Module
+2026-05-26 01:09:37.289 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-26 01:09:37.385 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-05-26 01:09:37.392 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-26 01:09:37.393 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-26 01:09:37.397 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-26 01:09:37.404 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-26 01:09:45.272 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 01:09:47.272 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 01:23:13.590 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-26 01:23:13.641 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-26 01:23:13.644 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-26 01:23:13.646 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-26 01:23:13.651 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 01:23:13.651 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-26 01:23:13.652 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-26 01:23:13.780 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-26 01:23:13.786 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-26 01:23:13.791 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_FunCommands
+2026-05-26 01:23:13.801 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin Fun Commands
+2026-05-26 01:23:13.804 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-26 01:23:13.830 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-26 01:23:13.835 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-26 01:23:13.836 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-26 01:23:13.840 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-26 01:23:13.861 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-26 01:23:13.867 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-26 01:23:13.869 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-26 01:23:13.872 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-26 01:23:13.875 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-26 01:23:13.879 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_StealthModule
+2026-05-26 01:23:13.881 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [CS2-SimpleAdmin] Stealth Module
+2026-05-26 01:23:13.893 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-26 01:23:13.908 +03:00 [EROR] (cssharp:PluginManager) Failed to load plugin from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/plugins/CS2-SimpleAdmin/CS2-SimpleAdmin.dll
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to System.Collections.Generic.List`1[System.String]. Path: $.DefaultMaps | LineNumber: 196 | BytePositionInLine: 20.
+   at System.Text.Json.ThrowHelper.ThrowJsonException_DeserializeUnableToConvertValue(Type propertyType)
+   at System.Text.Json.Serialization.JsonCollectionConverter`2.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, TCollection& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Metadata.JsonPropertyInfo`1.ReadJsonAndSetMember(Object obj, ReadStack& state, Utf8JsonReader& reader)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at CounterStrikeSharp.API.Modules.Config.ConfigManager.Deserialize[T](String path) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Config/ConfigManager.cs:line 121
+   at CounterStrikeSharp.API.Modules.Config.ConfigManager.Load[T](String pluginName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Config/ConfigManager.cs:line 72
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at CounterStrikeSharp.API.Core.BasePlugin.InitializeConfig(Object instance, Type pluginType) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 415
+   at CounterStrikeSharp.API.Core.Plugin.PluginContext.Load(Boolean hotReload) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/PluginContext.cs:line 226
+   at CounterStrikeSharp.API.Core.Plugin.Host.PluginManager.LoadPlugin(String path) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/Host/PluginManager.cs:line 189
+   at CounterStrikeSharp.API.Core.Plugin.Host.PluginManager.Load() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/Host/PluginManager.cs:line 106
+2026-05-26 01:23:13.915 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-26 01:23:13.917 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-26 01:23:13.921 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-26 01:23:13.928 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-26 01:23:13.928 +03:00 [EROR] (cssharp:PluginManager) OnAllPluginsLoaded failed
+System.Collections.Generic.KeyNotFoundException: The given key 'simpleadmin:api' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CounterStrikeSharp.API.Core.Capabilities.PluginCapability`1.Get() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Capabilities/PluginCapability.cs:line 17
+   at CS2_SimpleAdmin_FunCommands.CS2_SimpleAdmin_FunCommands.OnAllPluginsLoaded(Boolean hotReload) in /home/runner/work/CS2-SimpleAdmin/CS2-SimpleAdmin/Modules/CS2-SimpleAdmin_FunCommands/CS2-SimpleAdmin_FunCommands/CS2-SimpleAdmin_FunCommands.cs:line 104
+   at CounterStrikeSharp.API.Core.Plugin.Host.PluginManager.Load() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Plugin/Host/PluginManager.cs:line 119
+2026-05-26 01:23:16.243 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CS2_SimpleAdmin.RegisterCommands.Register()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101
+2026-05-26 01:26:07.794 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin CS2-SimpleAdmin (RELEASE)
+2026-05-26 01:26:07.805 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin CS2-SimpleAdmin (RELEASE)
+2026-05-26 01:27:06.324 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-26 01:27:06.373 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-26 01:27:06.376 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-26 01:27:06.378 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-26 01:27:06.383 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 01:27:06.383 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-26 01:27:06.383 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-26 01:27:06.511 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-26 01:27:06.517 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-26 01:27:06.521 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_FunCommands
+2026-05-26 01:27:06.530 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin Fun Commands
+2026-05-26 01:27:06.535 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-26 01:27:06.561 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-26 01:27:06.565 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-26 01:27:06.566 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-26 01:27:06.570 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-26 01:27:06.591 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-26 01:27:06.596 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-26 01:27:06.597 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-26 01:27:06.601 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-26 01:27:06.603 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-26 01:27:06.606 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_StealthModule
+2026-05-26 01:27:06.608 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [CS2-SimpleAdmin] Stealth Module
+2026-05-26 01:27:06.619 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-26 01:27:06.713 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-05-26 01:27:06.718 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-26 01:27:06.720 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-26 01:27:06.724 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-26 01:27:06.730 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-26 01:27:14.546 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 01:27:16.623 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 01:58:34.254 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-26 01:58:34.308 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-26 01:58:34.311 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-26 01:58:34.312 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-26 01:58:34.317 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 01:58:34.318 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-26 01:58:34.318 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-26 01:58:34.466 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-26 01:58:34.472 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-26 01:58:34.476 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_FunCommands
+2026-05-26 01:58:34.487 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin Fun Commands
+2026-05-26 01:58:34.491 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-26 01:58:34.518 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-26 01:58:34.522 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-26 01:58:34.523 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-26 01:58:34.527 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-26 01:58:34.549 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-26 01:58:34.555 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-26 01:58:34.557 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-26 01:58:34.560 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-26 01:58:34.562 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-26 01:58:34.565 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin_StealthModule
+2026-05-26 01:58:34.568 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [CS2-SimpleAdmin] Stealth Module
+2026-05-26 01:58:34.579 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-26 01:58:34.673 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-05-26 01:58:34.679 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-26 01:58:34.680 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-26 01:58:34.684 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-26 01:58:34.691 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-26 01:58:42.519 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 01:58:44.519 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 04:03:20.392 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-26 04:03:20.486 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-26 04:03:20.490 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-26 04:03:20.492 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-26 04:03:20.500 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 04:03:20.500 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-26 04:03:20.500 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-26 04:03:20.740 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-26 04:03:20.749 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-26 04:03:20.756 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-26 04:03:20.809 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-26 04:03:20.816 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-26 04:03:20.817 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-26 04:03:20.824 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-26 04:03:20.857 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-26 04:03:20.866 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-26 04:03:20.867 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-26 04:03:20.874 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-26 04:03:20.876 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-26 04:03:20.893 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-26 04:03:21.000 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-05-26 04:03:21.006 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-26 04:03:21.008 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-26 04:03:21.014 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-26 04:03:21.022 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-26 04:03:29.240 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 04:03:31.240 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 23:42:44.743 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-26 23:42:44.814 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-26 23:42:44.818 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-26 23:42:44.819 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-26 23:42:44.826 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 23:42:44.826 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-26 23:42:44.827 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-26 23:42:45.038 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-26 23:42:45.048 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-26 23:42:45.053 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-26 23:42:45.093 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-26 23:42:45.099 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-26 23:42:45.100 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-26 23:42:45.105 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-26 23:42:45.135 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-26 23:42:45.141 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-26 23:42:45.142 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-26 23:42:45.149 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-26 23:42:45.152 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-26 23:42:45.165 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-26 23:42:45.265 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-05-26 23:42:45.272 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-26 23:42:45.273 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-26 23:42:45.277 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-05-26 23:42:45.278 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-05-26 23:42:45.283 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-26 23:42:45.292 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-26 23:42:53.398 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 23:42:55.399 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 23:54:58.523 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Moon Mode has been deleted, unloading...
+2026-05-26 23:54:58.524 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Moon Mode
+2026-05-26 23:54:58.526 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Moon Mode
+2026-05-26 23:54:58.726 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Moon Mode
+2026-05-26 23:54:58.734 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-05-26 23:54:58.735 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-05-26 23:56:40.386 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-26 23:56:40.434 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-26 23:56:40.436 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-26 23:56:40.438 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-26 23:56:40.444 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 23:56:40.444 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-26 23:56:40.445 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-26 23:56:40.561 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-26 23:56:40.566 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-26 23:56:40.571 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-26 23:56:40.603 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-26 23:56:40.607 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-26 23:56:40.608 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-26 23:56:40.612 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-26 23:56:40.634 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-26 23:56:40.640 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-26 23:56:40.641 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-26 23:56:40.646 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-26 23:56:40.648 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-26 23:56:40.659 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-26 23:56:40.751 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-05-26 23:56:40.756 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-26 23:56:40.757 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-26 23:56:40.761 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-05-26 23:56:40.762 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-05-26 23:56:40.766 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-26 23:56:40.773 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-26 23:56:48.536 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-26 23:56:50.536 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.

@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"StatusBlocker"
+	"file"	"addons/StatusBlocker/bin/linuxsteamrt64/StatusBlocker"
+}

@@ -1,0 +1,118 @@
+2026-05-29 01:32:02.656 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-29 01:32:02.724 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-29 01:32:02.728 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-29 01:32:02.729 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-29 01:32:02.736 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-29 01:32:02.736 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-29 01:32:02.737 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-29 01:32:02.941 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-29 01:32:02.951 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-29 01:32:02.956 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-29 01:32:02.997 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-29 01:32:03.002 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-29 01:32:03.003 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-29 01:32:03.008 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-29 01:32:03.038 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-29 01:32:03.043 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-05-29 01:32:03.044 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-05-29 01:32:03.050 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-29 01:32:03.052 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-29 01:32:03.056 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-29 01:32:03.058 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-29 01:32:03.073 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-29 01:32:03.174 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-05-29 01:32:03.183 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-29 01:32:03.184 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-29 01:32:03.189 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-05-29 01:32:03.190 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-05-29 01:32:03.196 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-29 01:32:03.204 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-29 01:32:11.478 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-29 01:32:13.477 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-29 01:39:28.648 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Core.CCSPlayerController.get_PlayerPawn() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CCSPlayerController.g.cs:line 235
+   at BotBuyPatch.BotBuyPatch.<>c__DisplayClass18_0.<OnRoundStart>b__7() in C:\Games\BETTERBOTS\FINAL\BotBuy\BotBuy.cs:line 258
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101
+2026-05-29 01:39:28.660 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Core.CCSPlayerController.get_PlayerPawn() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CCSPlayerController.g.cs:line 235
+   at BotBuyPatch.BotBuyPatch.<>c__DisplayClass18_0.<OnRoundStart>b__6() in C:\Games\BETTERBOTS\FINAL\BotBuy\BotBuy.cs:line 231
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101
+2026-05-29 01:39:28.661 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Core.CCSPlayerController.get_PlayerPawn() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CCSPlayerController.g.cs:line 235
+   at BotBuyPatch.BotBuyPatch.<>c__DisplayClass18_0.<OnRoundStart>b__5() in C:\Games\BETTERBOTS\FINAL\BotBuy\BotBuy.cs:line 213
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101
+2026-05-29 01:39:28.742 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Core.CCSPlayerController.get_InGameMoneyServices() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CCSPlayerController.g.cs:line 23
+   at BotBuyPatch.BotBuyPatch.<>c__DisplayClass18_0.<OnRoundStart>b__8() in C:\Games\BETTERBOTS\FINAL\BotBuy\BotBuy.cs:line 295
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101
+2026-05-29 03:07:21.120 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-05-29 03:07:21.194 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-05-29 03:07:21.198 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-05-29 03:07:21.199 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-05-29 03:07:21.206 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-29 03:07:21.206 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-05-29 03:07:21.207 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-05-29 03:07:21.406 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-05-29 03:07:21.415 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-05-29 03:07:21.420 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-05-29 03:07:21.458 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-05-29 03:07:21.464 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-05-29 03:07:21.466 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-05-29 03:07:21.471 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-05-29 03:07:21.500 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-05-29 03:07:21.505 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-05-29 03:07:21.507 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-05-29 03:07:21.513 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-05-29 03:07:21.514 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-05-29 03:07:21.519 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-05-29 03:07:21.521 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-05-29 03:07:21.535 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-05-29 03:07:21.634 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-05-29 03:07:21.642 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-05-29 03:07:21.643 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-05-29 03:07:21.649 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-05-29 03:07:21.650 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-05-29 03:07:21.656 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-05-29 03:07:21.663 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-05-29 03:07:29.804 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-29 03:07:31.804 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-05-29 03:42:32.467 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-05-29 03:42:32.468 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-05-29 03:42:32.472 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-05-29 03:42:32.685 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-05-29 03:42:32.717 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-05-29 03:42:32.719 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-05-29 03:43:43.936 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-05-29 03:43:43.936 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-05-29 03:43:43.937 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-05-29 03:43:44.155 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-05-29 03:43:44.159 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-05-29 03:43:44.161 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG

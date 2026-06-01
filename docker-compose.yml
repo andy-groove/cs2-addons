@@ -1,0 +1,116 @@
+services:
+    cs2-server:
+        image: joedwards32/cs2:latest
+        container_name: cs2-dedicated
+        environment:
+            # Server configuration
+            - SRCDS_TOKEN                                     # Retrieve your token here with the game id '730': https://steamcommunity.com/dev/managegameservers 
+            - DEBUG=0                                         # (0 - off, 1 - steamcmd, 2 - cs2, 3 - all)            
+            - STEAMAPPVALIDATE=0                              # (0 - no validation, 1 - enable validation)
+            - CS2_SERVERNAME=Bot Training Lab                 # (Set the visible name for your private server)
+            - CS2_CHEATS=0                                    # (0 - disable cheats, 1 - enable cheats)
+            - CS2_PORT=27015                                  # (CS2 server listen port tcp_udp)
+            - CS2_RCON_PORT=28015                             # (Optional, use a simple TCP proxy to have RCON listen on an alternative port.)
+            - CS2_RCONPW=changeme                             # (RCON password)
+            - CS2_SERVER_HIBERNATE=0                          # (Put server in a low CPU state when there are no players. 0 - hibernation disabled, 1 - hibernation enabled)
+            - CS2_LAN=0                                       # (0 - LAN mode disabled, 1 - LAN Mode enabled)
+            - CS2_PW                                          # (Optional, CS2 server password)            
+            - CS2_MAXPLAYERS=20                               # (Max players)
+            - CS2_ADDITIONAL_ARGS=-insecure +exec custom/autoexec                          # (Optional additional arguments to pass into cs2)
+            - CS2_CFG_URL                                     # HTTP/HTTPS URL to fetch a Tar Gzip bundle, Tar or Zip archive of configuration files/mods
+      
+            # Game modes
+            - CS2_GAMEALIAS=competitive                       # (Game type, e.g. casual, competitive, deathmatch. See https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers)
+            - CS2_GAMETYPE=0                                  # (Used if CS2_GAMEALIAS not defined. See https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers)
+            - CS2_GAMEMODE=1                                  # (Used if CS2_GAMEALIAS not defined. See https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers)
+            - CS2_MAPGROUP=mg_active                          # (Map pool. Ignored if Workshop maps are defined.)
+            - CS2_STARTMAP=de_cache                           # (Start map. Ignored if Workshop maps are defined.)
+      
+            # Workshop Maps
+            - CS2_HOST_WORKSHOP_COLLECTION                    # The workshop collection to use
+            - CS2_HOST_WORKSHOP_MAP                           # The workshop map to use. If collection is also defined, this is the starting map.
+      
+            # Bots
+            - CS2_BOT_DIFFICULTY                              # (0 - easy, 1 - normal, 2 - hard, 3 - expert)
+            - CS2_BOT_QUOTA                                   # (Number of bots)
+            - CS2_BOT_QUOTA_MODE                              # (fill, competitive)
+
+            # TV
+            - TV_AUTORECORD=0                                 # Automatically records all games as CSTV demos: 0=off, 1=on.
+            - TV_ENABLE=0                                     # Activates CSTV on server: 0=off, 1=on.
+            - TV_PORT=27020                                   # Host SourceTV port
+            - TV_PW=changeme                                  # CSTV password for clients
+            - TV_RELAY_PW=changeme                            # CSTV password for relay proxies
+            - TV_MAXRATE=0                                    # World snapshots to broadcast per second. Affects camera tickrate.
+            - TV_DELAY=0                                      # CSTV broadcast delay in seconds
+      
+            # Logs
+            - CS2_LOG=on                                      # 'on'/'off'
+            - CS2_LOG_MONEY=0                                 # Turns money logging on/off: (0=off, 1=on)
+            - CS2_LOG_DETAIL=0                                # Combat damage logging: (0=disabled, 1=enemy, 2=friendly, 3=all)
+            - CS2_LOG_ITEMS=0                                 # Turns item logging on/off: (0=off, 1=on)
+
+            # Timezone
+            - TZ=Europe/Kyiv
+        depends_on:
+            cs2-db:
+                condition: service_healthy
+                restart: true        
+        volumes:
+              # server data
+            - cs2:/home/steam/cs2-dedicated
+
+              # configs
+            - ./agds/csgo/cfg:/home/steam/cs2-dedicated/game/csgo/cfg/custom:ro
+            - ./agds/csgo/cfg/gamemode_competitive_server.cfg:/opt/agds/gamemode_competitive_server.cfg:ro
+
+              # addons
+            - ./agds/csgo/addons:/home/steam/cs2-dedicated/game/csgo/addons
+
+              # overrides
+            - ./agds/csgo/overrides:/home/steam/cs2-dedicated/game/csgo/overrides
+
+              # hooks
+            - ./agds/hooks/pre.sh:/home/steam/cs2-dedicated/pre.sh:ro
+
+              # timezone
+            - /etc/localtime:/etc/localtime:ro
+            - /etc/timezone:/etc/timezone:ro
+        ports:
+            - "27015:27015/tcp"
+            - "27015:27015/udp"
+            - "27020:27020/udp"
+            - "28015:28015"
+        networks:
+            - cs2-network
+        stdin_open: true                                          # Add local console for docker attach, docker attach --sig-proxy=false cs2-dedicated
+        tty: true                                                 # Add local console for docker attach, docker attach --sig-proxy=false cs2-dedicated
+    cs2-db:
+        image: mariadb:latest
+        environment:
+            MYSQL_DATABASE: 'db'
+            MYSQL_USER: 'server'
+            MYSQL_PASSWORD: 'changeme'
+            MYSQL_ROOT_PASSWORD: 'changeme'
+        healthcheck:
+            test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+            interval: 10s
+            timeout: 5s
+            retries: 5
+        ports:
+            - '3306:3306'
+        expose:
+            - '3306'
+        volumes:
+            - cs2-db:/var/lib/mysql
+        networks:
+            - cs2-network
+volumes:
+    cs2-db:
+    cs2:
+        external: true
+        name: cs2_cs2
+networks:
+    cs2-network:
+        driver: bridge
+        name: cs2-network

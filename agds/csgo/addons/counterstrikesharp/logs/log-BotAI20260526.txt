@@ -1,0 +1,110 @@
+2026-05-26 00:06:37.902 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-05-26 00:06:37.906 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-05-26 00:06:37.916 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-05-26 00:06:37.920 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-05-26 00:06:37.921 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x7628AE1E0B80 (2 bytes)
+2026-05-26 00:06:37.922 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-05-26 00:06:37.925 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-05-26 00:06:37.925 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x7628AE1E9943 (5 bytes)
+2026-05-26 00:06:37.925 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-05-26 00:06:37.925 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-05-26 00:32:52.412 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-05-26 00:32:52.416 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-05-26 00:32:52.428 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-05-26 00:32:52.432 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-05-26 00:32:52.434 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x7F1D4A1E0B80 (2 bytes)
+2026-05-26 00:32:52.434 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-05-26 00:32:52.437 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-05-26 00:32:52.438 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x7F1D4A1E9943 (5 bytes)
+2026-05-26 00:32:52.438 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-05-26 00:32:52.438 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-05-26 00:38:54.451 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-05-26 00:38:54.456 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-05-26 00:38:54.466 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-05-26 00:38:54.469 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-05-26 00:38:54.470 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x7E69E49E0B80 (2 bytes)
+2026-05-26 00:38:54.470 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-05-26 00:38:54.473 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-05-26 00:38:54.473 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x7E69E49E9943 (5 bytes)
+2026-05-26 00:38:54.473 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-05-26 00:38:54.474 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-05-26 00:57:14.295 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-05-26 00:57:14.299 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-05-26 00:57:14.310 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-05-26 00:57:14.316 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-05-26 00:57:14.317 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x79041E1E0B80 (2 bytes)
+2026-05-26 00:57:14.317 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-05-26 00:57:14.320 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-05-26 00:57:14.320 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x79041E1E9943 (5 bytes)
+2026-05-26 00:57:14.320 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-05-26 00:57:14.321 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-05-26 01:09:37.199 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-05-26 01:09:37.203 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-05-26 01:09:37.213 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-05-26 01:09:37.217 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-05-26 01:09:37.218 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x72F7121E0B80 (2 bytes)
+2026-05-26 01:09:37.218 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-05-26 01:09:37.221 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-05-26 01:09:37.221 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x72F7121E9943 (5 bytes)
+2026-05-26 01:09:37.222 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-05-26 01:09:37.222 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-05-26 01:23:13.806 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-05-26 01:23:13.811 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-05-26 01:23:13.822 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-05-26 01:23:13.826 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-05-26 01:23:13.827 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x7F37C53E0B80 (2 bytes)
+2026-05-26 01:23:13.827 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-05-26 01:23:13.830 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-05-26 01:23:13.830 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x7F37C53E9943 (5 bytes)
+2026-05-26 01:23:13.830 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-05-26 01:23:13.830 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-05-26 01:27:06.536 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-05-26 01:27:06.541 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-05-26 01:27:06.552 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-05-26 01:27:06.556 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-05-26 01:27:06.557 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x720A961E0B80 (2 bytes)
+2026-05-26 01:27:06.557 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-05-26 01:27:06.560 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-05-26 01:27:06.560 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x720A961E9943 (5 bytes)
+2026-05-26 01:27:06.560 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-05-26 01:27:06.561 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-05-26 01:58:34.493 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-05-26 01:58:34.497 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-05-26 01:58:34.508 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-05-26 01:58:34.513 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-05-26 01:58:34.514 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x77B1561E0B80 (2 bytes)
+2026-05-26 01:58:34.514 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-05-26 01:58:34.517 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-05-26 01:58:34.518 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x77B1561E9943 (5 bytes)
+2026-05-26 01:58:34.518 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-05-26 01:58:34.518 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-05-26 04:03:20.777 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-05-26 04:03:20.786 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-05-26 04:03:20.799 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-05-26 04:03:20.803 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-05-26 04:03:20.805 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x707DFE1E0B80 (2 bytes)
+2026-05-26 04:03:20.805 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-05-26 04:03:20.808 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-05-26 04:03:20.808 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x707DFE1E9943 (5 bytes)
+2026-05-26 04:03:20.808 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-05-26 04:03:20.809 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-05-26 23:42:45.066 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-05-26 23:42:45.072 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-05-26 23:42:45.083 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-05-26 23:42:45.087 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-05-26 23:42:45.089 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x74A2721E0B80 (2 bytes)
+2026-05-26 23:42:45.089 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-05-26 23:42:45.092 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-05-26 23:42:45.092 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x74A2721E9943 (5 bytes)
+2026-05-26 23:42:45.092 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-05-26 23:42:45.093 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-05-26 23:56:40.578 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-05-26 23:56:40.582 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-05-26 23:56:40.593 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-05-26 23:56:40.598 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-05-26 23:56:40.599 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x7FAA461E0B80 (2 bytes)
+2026-05-26 23:56:40.599 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-05-26 23:56:40.602 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-05-26 23:56:40.602 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x7FAA461E9943 (5 bytes)
+2026-05-26 23:56:40.602 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-05-26 23:56:40.603 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.

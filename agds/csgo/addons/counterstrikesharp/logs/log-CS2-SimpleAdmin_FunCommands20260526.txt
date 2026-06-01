@@ -1,0 +1,4 @@
+2026-05-26 00:06:38.101 +03:00 [INFO] plugin:CS2-SimpleAdmin Fun Commands Fun menus registered successfully!
+2026-05-26 01:09:37.410 +03:00 [INFO] plugin:CS2-SimpleAdmin Fun Commands Fun menus registered successfully!
+2026-05-26 01:27:06.735 +03:00 [INFO] plugin:CS2-SimpleAdmin Fun Commands Fun menus registered successfully!
+2026-05-26 01:58:34.695 +03:00 [INFO] plugin:CS2-SimpleAdmin Fun Commands Fun menus registered successfully!

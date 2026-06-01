@@ -1,0 +1,12 @@
+{
+    "GreedyWizard": {
+        "identity": "76561199568731135",
+        "immunity": 100,
+        "flags": ["@css/root"],
+        "groups": ["#css/admin"],
+        "command_overrides": {
+            "css_plugins": true,
+            "css": false
+        }
+    }
+}

@@ -1,0 +1,218 @@
+2026-06-01 00:32:25.939 +03:00 [INFO] (cssharp:PluginContext) Plugin AgdsRandomizer has been deleted, unloading...
+2026-06-01 00:32:25.944 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin AgdsRandomizer
+2026-06-01 00:32:25.947 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin AgdsRandomizer
+2026-06-01 00:32:26.140 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin AgdsRandomizer
+2026-06-01 00:32:26.185 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-01 00:32:26.189 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-01 01:17:55.632 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-01 01:17:55.633 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-01 01:17:55.641 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-01 01:17:55.834 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-01 01:17:55.857 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-01 01:17:55.860 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-01 01:20:37.657 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-01 01:20:37.657 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-01 01:20:37.657 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-01 01:20:37.860 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-01 01:20:37.863 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-01 01:20:37.864 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-01 01:22:40.719 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-01 01:22:40.777 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-01 01:22:40.781 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-01 01:22:40.782 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-01 01:22:40.789 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-01 01:22:40.789 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-01 01:22:40.790 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-01 01:22:40.923 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-01 01:22:40.929 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-01 01:22:40.933 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-01 01:22:40.942 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-06-01 01:22:40.947 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-06-01 01:22:40.958 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-06-01 01:22:40.962 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-06-01 01:22:40.964 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x7955961E0B80 (2 bytes)
+2026-06-01 01:22:40.964 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-06-01 01:22:40.967 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-06-01 01:22:40.967 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x7955961E9943 (5 bytes)
+2026-06-01 01:22:40.968 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-06-01 01:22:40.968 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-06-01 01:22:40.969 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-01 01:22:40.973 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-01 01:22:40.975 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-01 01:22:40.979 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-01 01:22:41.005 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-01 01:22:41.010 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-01 01:22:41.012 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-01 01:22:41.018 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-01 01:22:41.019 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-01 01:22:41.023 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-01 01:22:41.025 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-01 01:22:41.039 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-01 01:22:41.140 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-01 01:22:41.151 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-01 01:22:41.153 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-01 01:22:41.156 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-01 01:22:41.157 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-01 01:22:41.163 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-01 01:22:41.170 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-01 01:22:41.462 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Plugin is up to date
+2026-06-01 01:22:44.927 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ban` with aliases: `css_ban`
+2026-06-01 01:22:44.928 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addban` with aliases: `css_addban`
+2026-06-01 01:22:44.928 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_banip` with aliases: `css_banip`
+2026-06-01 01:22:44.928 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unban` with aliases: `css_unban`
+2026-06-01 01:22:44.928 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warn` with aliases: `css_warn`
+2026-06-01 01:22:44.928 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unwarn` with aliases: `css_unwarn`
+2026-06-01 01:22:44.928 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_asay` with aliases: `css_asay`
+2026-06-01 01:22:44.928 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cssay` with aliases: `css_cssay`
+2026-06-01 01:22:44.928 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_say` with aliases: `css_say`
+2026-06-01 01:22:44.928 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_psay` with aliases: `css_psay`
+2026-06-01 01:22:44.929 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_csay` with aliases: `css_csay`
+2026-06-01 01:22:44.929 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hsay` with aliases: `css_hsay`
+2026-06-01 01:22:44.929 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_penalties` with aliases: `css_penalties, css_mypenalties, css_comms`
+2026-06-01 01:22:44.929 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_admin` with aliases: `css_admin`
+2026-06-01 01:22:44.929 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminhelp` with aliases: `css_adminhelp`
+2026-06-01 01:22:44.929 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addadmin` with aliases: `css_addadmin`
+2026-06-01 01:22:44.929 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_deladmin` with aliases: `css_deladmin`
+2026-06-01 01:22:44.929 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgroup` with aliases: `css_addgroup`
+2026-06-01 01:22:44.929 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_delgroup` with aliases: `css_delgroup`
+2026-06-01 01:22:44.930 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadadmins` with aliases: `css_reloadadmins`
+2026-06-01 01:22:44.930 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadbans` with aliases: `css_reloadbans`
+2026-06-01 01:22:44.930 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hide` with aliases: `css_hide, css_stealth`
+2026-06-01 01:22:44.930 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hidecomms` with aliases: `css_hidecomms`
+2026-06-01 01:22:44.930 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_who` with aliases: `css_who`
+2026-06-01 01:22:44.930 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_disconnected` with aliases: `css_disconnected, css_last`
+2026-06-01 01:22:44.930 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warns` with aliases: `css_warns`
+2026-06-01 01:22:44.930 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_players` with aliases: `css_players`
+2026-06-01 01:22:44.931 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_kick` with aliases: `css_kick`
+2026-06-01 01:22:44.931 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_map` with aliases: `css_map, css_changemap`
+2026-06-01 01:22:44.931 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_wsmap` with aliases: `css_wsmap, css_changewsmap, css_workshop`
+2026-06-01 01:22:44.931 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cvar` with aliases: `css_cvar`
+2026-06-01 01:22:44.932 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rcon` with aliases: `css_rcon`
+2026-06-01 01:22:44.932 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rr` with aliases: `css_rr, css_rg, css_restart, css_restartgame`
+2026-06-01 01:22:44.932 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_gag` with aliases: `css_gag`
+2026-06-01 01:22:44.932 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgag` with aliases: `css_addgag`
+2026-06-01 01:22:44.932 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ungag` with aliases: `css_ungag`
+2026-06-01 01:22:44.933 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_mute` with aliases: `css_mute`
+2026-06-01 01:22:44.933 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addmute` with aliases: `css_addmute`
+2026-06-01 01:22:44.933 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unmute` with aliases: `css_unmute`
+2026-06-01 01:22:44.933 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_silence` with aliases: `css_silence`
+2026-06-01 01:22:44.933 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addsilence` with aliases: `css_addsilence`
+2026-06-01 01:22:44.934 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unsilence` with aliases: `css_unsilence`
+2026-06-01 01:22:44.935 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_vote` with aliases: `css_vote`
+2026-06-01 01:22:44.935 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slay` with aliases: `css_slay`
+2026-06-01 01:22:44.936 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slap` with aliases: `css_slap`
+2026-06-01 01:22:44.936 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_team` with aliases: `css_team`
+2026-06-01 01:22:44.936 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rename` with aliases: `css_rename`
+2026-06-01 01:22:44.937 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_prename` with aliases: `css_prename`
+2026-06-01 01:22:44.937 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_resize` with aliases: `css_resize, css_size`
+2026-06-01 01:22:44.937 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_tp` with aliases: `css_tp, css_tpto, css_goto`
+2026-06-01 01:22:44.937 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_bring` with aliases: `css_bring, css_tphere`
+2026-06-01 01:22:44.938 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_pluginsmanager` with aliases: `css_pluginsmanager, css_pluginmanager`
+2026-06-01 01:22:44.938 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminvoice` with aliases: `css_adminvoice, css_listenall`
+2026-06-01 01:22:45.465 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded server with ip 31.43.104.167
+2026-06-01 01:22:48.573 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded admins!
+2026-06-01 01:22:50.573 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-01 01:22:52.573 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-01 01:23:08.516 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.19.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-01 01:23:52.894 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.19.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-01 01:24:44.185 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.19.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-01 01:24:46.393 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.19.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-01 03:48:38.631 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-01 03:48:38.698 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-01 03:48:38.701 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-01 03:48:38.702 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-01 03:48:38.709 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-01 03:48:38.709 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-01 03:48:38.710 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-01 03:48:38.938 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-01 03:48:38.947 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-01 03:48:38.952 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-01 03:48:38.966 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-06-01 03:48:38.971 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-06-01 03:48:38.982 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-06-01 03:48:38.986 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-06-01 03:48:38.988 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x73CEB21E0B80 (2 bytes)
+2026-06-01 03:48:38.988 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-06-01 03:48:38.991 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-06-01 03:48:38.991 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x73CEB21E9943 (5 bytes)
+2026-06-01 03:48:38.991 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-06-01 03:48:38.992 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-06-01 03:48:38.992 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-01 03:48:38.997 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-01 03:48:38.999 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-01 03:48:39.004 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-01 03:48:39.035 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-01 03:48:39.040 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-01 03:48:39.042 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-01 03:48:39.049 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-01 03:48:39.050 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-01 03:48:39.055 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-01 03:48:39.056 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-01 03:48:39.071 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-01 03:48:39.174 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-01 03:48:39.186 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-01 03:48:39.188 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-01 03:48:39.191 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-01 03:48:39.192 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-01 03:48:39.197 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-01 03:48:39.205 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-01 03:48:39.647 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Plugin is up to date
+2026-06-01 03:48:41.950 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ban` with aliases: `css_ban`
+2026-06-01 03:48:41.951 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addban` with aliases: `css_addban`
+2026-06-01 03:48:41.952 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_banip` with aliases: `css_banip`
+2026-06-01 03:48:41.952 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unban` with aliases: `css_unban`
+2026-06-01 03:48:41.952 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warn` with aliases: `css_warn`
+2026-06-01 03:48:41.952 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unwarn` with aliases: `css_unwarn`
+2026-06-01 03:48:41.952 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_asay` with aliases: `css_asay`
+2026-06-01 03:48:41.953 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cssay` with aliases: `css_cssay`
+2026-06-01 03:48:41.953 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_say` with aliases: `css_say`
+2026-06-01 03:48:41.953 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_psay` with aliases: `css_psay`
+2026-06-01 03:48:41.953 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_csay` with aliases: `css_csay`
+2026-06-01 03:48:41.953 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hsay` with aliases: `css_hsay`
+2026-06-01 03:48:41.953 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_penalties` with aliases: `css_penalties, css_mypenalties, css_comms`
+2026-06-01 03:48:41.953 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_admin` with aliases: `css_admin`
+2026-06-01 03:48:41.954 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminhelp` with aliases: `css_adminhelp`
+2026-06-01 03:48:41.954 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addadmin` with aliases: `css_addadmin`
+2026-06-01 03:48:41.954 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_deladmin` with aliases: `css_deladmin`
+2026-06-01 03:48:41.954 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgroup` with aliases: `css_addgroup`
+2026-06-01 03:48:41.954 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_delgroup` with aliases: `css_delgroup`
+2026-06-01 03:48:41.954 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadadmins` with aliases: `css_reloadadmins`
+2026-06-01 03:48:41.954 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadbans` with aliases: `css_reloadbans`
+2026-06-01 03:48:41.955 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hide` with aliases: `css_hide, css_stealth`
+2026-06-01 03:48:41.955 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hidecomms` with aliases: `css_hidecomms`
+2026-06-01 03:48:41.955 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_who` with aliases: `css_who`
+2026-06-01 03:48:41.955 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_disconnected` with aliases: `css_disconnected, css_last`
+2026-06-01 03:48:41.955 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warns` with aliases: `css_warns`
+2026-06-01 03:48:41.955 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_players` with aliases: `css_players`
+2026-06-01 03:48:41.956 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_kick` with aliases: `css_kick`
+2026-06-01 03:48:41.956 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_map` with aliases: `css_map, css_changemap`
+2026-06-01 03:48:41.956 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_wsmap` with aliases: `css_wsmap, css_changewsmap, css_workshop`
+2026-06-01 03:48:41.956 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cvar` with aliases: `css_cvar`
+2026-06-01 03:48:41.956 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rcon` with aliases: `css_rcon`
+2026-06-01 03:48:41.956 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rr` with aliases: `css_rr, css_rg, css_restart, css_restartgame`
+2026-06-01 03:48:41.956 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_gag` with aliases: `css_gag`
+2026-06-01 03:48:41.956 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgag` with aliases: `css_addgag`
+2026-06-01 03:48:41.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ungag` with aliases: `css_ungag`
+2026-06-01 03:48:41.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_mute` with aliases: `css_mute`
+2026-06-01 03:48:41.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addmute` with aliases: `css_addmute`
+2026-06-01 03:48:41.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unmute` with aliases: `css_unmute`
+2026-06-01 03:48:41.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_silence` with aliases: `css_silence`
+2026-06-01 03:48:41.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addsilence` with aliases: `css_addsilence`
+2026-06-01 03:48:41.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unsilence` with aliases: `css_unsilence`
+2026-06-01 03:48:41.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_vote` with aliases: `css_vote`
+2026-06-01 03:48:41.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slay` with aliases: `css_slay`
+2026-06-01 03:48:41.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slap` with aliases: `css_slap`
+2026-06-01 03:48:41.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_team` with aliases: `css_team`
+2026-06-01 03:48:41.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rename` with aliases: `css_rename`
+2026-06-01 03:48:41.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_prename` with aliases: `css_prename`
+2026-06-01 03:48:41.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_resize` with aliases: `css_resize, css_size`
+2026-06-01 03:48:41.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_tp` with aliases: `css_tp, css_tpto, css_goto`
+2026-06-01 03:48:41.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_bring` with aliases: `css_bring, css_tphere`
+2026-06-01 03:48:41.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_pluginsmanager` with aliases: `css_pluginsmanager, css_pluginmanager`
+2026-06-01 03:48:41.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminvoice` with aliases: `css_adminvoice, css_listenall`
+2026-06-01 03:48:42.494 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded server with ip 31.43.104.167
+2026-06-01 03:48:45.492 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded admins!
+2026-06-01 03:48:47.496 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-01 03:48:49.494 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-01 03:49:48.068 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.19.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-01 03:49:50.279 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.19.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
