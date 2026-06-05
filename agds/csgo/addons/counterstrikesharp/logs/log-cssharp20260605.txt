@@ -1,0 +1,146 @@
+2026-06-05 00:28:25.521 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-05 00:28:25.591 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-05 00:28:25.594 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-05 00:28:25.596 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-05 00:28:25.602 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 00:28:25.602 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-05 00:28:25.602 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-05 00:28:25.836 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-05 00:28:25.845 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-05 00:28:25.850 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-05 00:28:25.889 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-05 00:28:25.894 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-05 00:28:25.895 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-05 00:28:25.901 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-05 00:28:25.930 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-05 00:28:25.936 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 00:28:25.956 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 00:28:25.962 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-05 00:28:25.963 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-05 00:28:25.968 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-05 00:28:25.970 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-05 00:28:25.984 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-05 00:28:26.089 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-05 00:28:26.095 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-05 00:28:26.097 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-05 00:28:26.101 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-05 00:28:26.102 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-05 00:28:26.106 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-05 00:28:26.113 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-05 00:28:34.233 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 00:28:36.325 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 02:11:50.618 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-05 02:11:50.689 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-05 02:11:50.692 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-05 02:11:50.694 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-05 02:11:50.700 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 02:11:50.701 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-05 02:11:50.701 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-05 02:11:50.901 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-05 02:11:50.909 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-05 02:11:50.915 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-05 02:11:50.955 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-05 02:11:50.961 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-05 02:11:50.962 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-05 02:11:50.967 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-05 02:11:50.996 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-05 02:11:51.004 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 02:11:51.026 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 02:11:51.032 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-05 02:11:51.033 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-05 02:11:51.037 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-05 02:11:51.039 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-05 02:11:51.053 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-05 02:11:51.159 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-05 02:11:51.164 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-05 02:11:51.166 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-05 02:11:51.170 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-05 02:11:51.170 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-05 02:11:51.176 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-05 02:11:51.183 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-05 02:11:59.161 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 02:12:01.161 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 03:16:52.284 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 03:16:52.286 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 03:16:52.292 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 03:16:52.501 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 03:16:52.548 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 03:16:52.563 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 03:17:41.219 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 03:17:41.220 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 03:17:41.221 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 03:17:41.426 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 03:17:41.435 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 03:17:41.442 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 03:21:39.725 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 03:21:39.726 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 03:21:39.726 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 03:21:39.928 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 03:21:39.934 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 03:21:39.941 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 03:24:37.339 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 03:24:37.339 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 03:24:37.339 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 03:24:37.542 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 03:24:37.546 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 03:24:37.552 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 03:24:56.198 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 03:24:56.198 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 03:24:56.198 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 03:24:56.405 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 03:24:56.408 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 03:24:56.413 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 03:58:32.986 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 03:58:32.987 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 03:58:32.987 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 03:58:33.205 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 03:58:33.222 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 03:58:33.235 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 03:59:00.824 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 03:59:00.824 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 03:59:00.824 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 03:59:01.027 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 03:59:01.030 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 03:59:01.036 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 03:59:23.699 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 03:59:23.699 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 03:59:23.700 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 03:59:23.907 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 03:59:23.909 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 03:59:23.915 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 03:59:42.271 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 03:59:42.271 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 03:59:42.271 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 03:59:42.479 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 03:59:42.481 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 03:59:42.487 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 04:05:19.858 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 04:05:19.858 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 04:05:19.858 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 04:05:20.062 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 04:05:20.065 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 04:05:20.070 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 04:09:50.623 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 04:09:50.623 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 04:09:50.623 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 04:09:50.826 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 04:09:50.829 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 04:09:50.834 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 04:28:24.617 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 04:28:24.617 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 04:28:24.617 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 04:28:24.836 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 04:28:24.840 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 04:28:24.846 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 04:33:42.452 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 04:33:42.452 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 04:33:42.453 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 04:33:42.645 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 04:33:42.649 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 04:33:42.656 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 04:38:39.477 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 04:38:39.477 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 04:38:39.477 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 04:38:39.680 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 04:38:39.683 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 04:38:39.688 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
