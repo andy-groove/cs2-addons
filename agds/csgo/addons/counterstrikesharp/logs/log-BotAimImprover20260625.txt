@@ -1,0 +1,4 @@
+2026-06-25 03:20:00.787 +03:00 [INFO] plugin:BotAimImprover [BotAimImprover] Loaded (Linux). PickNewAimSpot=0x000073BDBE6B4860
+2026-06-25 03:26:36.979 +03:00 [INFO] plugin:BotAimImprover [BotAimImprover] Active: first override (weapon=weapon_hkp2000 point=JAW).
+2026-06-25 04:04:52.575 +03:00 [INFO] plugin:BotAimImprover [BotAimImprover] Loaded (Linux). PickNewAimSpot=0x000079E1A18B45E0
+2026-06-25 04:08:47.935 +03:00 [INFO] plugin:BotAimImprover [BotAimImprover] Active: first override (weapon=weapon_glock point=JAW).

@@ -7,6 +7,9 @@ GAMEINFO="$ROOT/game/csgo/gameinfo.gi"
 CFG_SOURCE="/opt/agds/gamemode_competitive_server.cfg"
 CFG_TARGET="$ROOT/game/csgo/cfg/gamemode_competitive_server.cfg"
 
+MAPGROUP_SOURCE="/opt/agds/gamemodes_server.txt"
+MAPGROUP_TARGET="$ROOT/game/csgo/gamemodes_server.txt"
+
 BOTPROFILE_PATH="csgo/overrides/botprofile.vpk"
 METAMOD_PATH="csgo/addons/metamod"
 
@@ -95,6 +98,21 @@ if [ -f "$CFG_SOURCE" ]; then
     echo "pre-hook: gamemode_competitive_server.cfg copied to $CFG_TARGET"
 else
     echo "ERROR: config source not found: $CFG_SOURCE" >&2
+    exit 1
+fi
+
+# ---------------------------------------------------
+# gamemodes_server.txt
+# ---------------------------------------------------
+echo "pre-hook: copying gamemodes_server.txt"
+
+if [ -f "$MAPGROUP_SOURCE" ]; then
+    cp "$MAPGROUP_SOURCE" "$MAPGROUP_TARGET"
+    chmod 664 "$MAPGROUP_TARGET"
+
+    echo "pre-hook: gamemodes_server.txt copied to $MAPGROUP_TARGET"
+else
+    echo "ERROR: mapgroup source not found: $MAPGROUP_SOURCE" >&2
     exit 1
 fi
 

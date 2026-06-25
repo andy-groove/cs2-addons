@@ -144,3 +144,358 @@
 2026-06-05 04:38:39.680 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
 2026-06-05 04:38:39.683 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
 2026-06-05 04:38:39.688 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 14:49:41.128 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-05 14:49:41.201 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-05 14:49:41.204 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-05 14:49:41.205 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-05 14:49:41.211 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 14:49:41.211 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-05 14:49:41.212 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-05 14:49:41.419 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-05 14:49:41.428 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-05 14:49:41.433 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-05 14:49:41.471 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-05 14:49:41.476 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-05 14:49:41.478 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-05 14:49:41.482 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-05 14:49:41.510 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-05 14:49:41.515 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 14:49:41.532 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 14:49:41.538 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-05 14:49:41.540 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-05 14:49:41.545 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-05 14:49:41.547 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-05 14:49:41.563 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-05 14:49:41.671 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-05 14:49:41.677 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-05 14:49:41.678 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-05 14:49:41.682 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-05 14:49:41.683 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-05 14:49:41.689 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-05 14:49:41.695 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-05 14:49:49.798 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 14:49:51.796 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 16:03:41.234 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-05 16:03:41.314 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-05 16:03:41.318 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-05 16:03:41.319 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-05 16:03:41.326 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 16:03:41.326 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-05 16:03:41.327 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-05 16:03:41.558 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-05 16:03:41.567 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-05 16:03:41.573 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-05 16:03:41.616 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-05 16:03:41.622 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-05 16:03:41.623 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-05 16:03:41.629 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-05 16:03:41.661 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-05 16:03:41.666 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 16:03:41.684 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 16:03:41.691 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-05 16:03:41.692 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-05 16:03:41.698 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-05 16:03:41.700 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-05 16:03:41.716 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-05 16:03:41.830 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-05 16:03:41.835 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-05 16:03:41.837 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-05 16:03:41.841 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-05 16:03:41.842 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-05 16:03:41.848 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-05 16:03:41.856 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-05 16:03:49.911 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 16:03:51.914 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 17:03:54.861 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 17:03:54.861 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 17:03:54.863 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 17:03:55.064 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 17:03:55.072 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 17:03:55.078 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 17:18:07.742 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 17:18:07.743 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 17:18:07.743 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 17:18:07.953 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 17:18:07.958 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 17:18:07.964 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 17:21:07.312 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 17:21:07.312 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 17:21:07.312 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 17:21:07.515 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 17:21:07.517 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 17:21:07.523 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 17:21:36.781 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 17:21:36.782 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 17:21:36.782 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 17:21:36.984 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 17:21:36.989 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 17:21:36.995 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 17:23:49.658 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 17:23:49.658 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 17:23:49.659 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 17:23:49.877 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 17:23:49.881 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 17:23:49.887 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 17:27:18.422 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 17:27:18.422 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 17:27:18.422 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 17:27:18.625 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 17:27:18.630 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 17:27:18.637 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 17:29:07.235 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-05 17:29:07.291 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-05 17:29:07.294 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-05 17:29:07.295 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-05 17:29:07.301 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 17:29:07.301 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-05 17:29:07.302 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-05 17:29:07.439 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-05 17:29:07.445 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-05 17:29:07.449 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-05 17:29:07.482 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-05 17:29:07.486 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-05 17:29:07.487 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-05 17:29:07.491 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-05 17:29:07.515 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-05 17:29:07.519 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 17:29:07.535 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 17:29:07.541 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-05 17:29:07.542 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-05 17:29:07.545 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-05 17:29:07.547 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-05 17:29:07.561 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-05 17:29:07.670 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-05 17:29:07.677 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-05 17:29:07.678 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-05 17:29:07.682 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-05 17:29:07.682 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-05 17:29:07.686 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-05 17:29:07.693 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-05 17:29:16.282 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 17:29:18.282 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 17:32:00.676 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 17:32:00.676 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 17:32:00.678 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 17:32:00.879 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 17:32:00.886 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 17:32:00.892 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 17:34:19.239 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Modules.Memory.Schema.GetRef[T](IntPtr pointer, String className, String memberName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Memory/Schema.cs:line 111
+   at CounterStrikeSharp.API.Core.CTakeDamageResult.get_HealthLost() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CTakeDamageResult.g.cs:line 27
+   at AgdsSimpleRpg.AssassinClass.OnPlayerTakeDamagePost(CCSPlayerController attacker, CCSPlayerController victim, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult, String weapon) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\Classes.cs:line 95
+   at AgdsSimpleRpg.AgdsSimpleRpgPlugin.OnPlayerTakeDamagePost(CCSPlayerPawn victimPawn, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\AgdsSimpleRpg.cs:line 271
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.BasePlugin.<>c__DisplayClass56_0`1.<RegisterListener>b__2(ScriptContext context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 305
+   at InvokeStub_Func`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context)
+2026-06-05 17:34:39.925 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Modules.Memory.Schema.GetRef[T](IntPtr pointer, String className, String memberName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Memory/Schema.cs:line 111
+   at CounterStrikeSharp.API.Core.CTakeDamageResult.get_HealthLost() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CTakeDamageResult.g.cs:line 27
+   at AgdsSimpleRpg.AssassinClass.OnPlayerTakeDamagePost(CCSPlayerController attacker, CCSPlayerController victim, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult, String weapon) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\Classes.cs:line 95
+   at AgdsSimpleRpg.AgdsSimpleRpgPlugin.OnPlayerTakeDamagePost(CCSPlayerPawn victimPawn, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\AgdsSimpleRpg.cs:line 271
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.BasePlugin.<>c__DisplayClass56_0`1.<RegisterListener>b__2(ScriptContext context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 305
+   at InvokeStub_Func`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context)
+2026-06-05 17:37:15.632 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Modules.Memory.Schema.GetRef[T](IntPtr pointer, String className, String memberName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Memory/Schema.cs:line 111
+   at CounterStrikeSharp.API.Core.CTakeDamageResult.get_HealthLost() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CTakeDamageResult.g.cs:line 27
+   at AgdsSimpleRpg.AssassinClass.OnPlayerTakeDamagePost(CCSPlayerController attacker, CCSPlayerController victim, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult, String weapon) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\Classes.cs:line 95
+   at AgdsSimpleRpg.AgdsSimpleRpgPlugin.OnPlayerTakeDamagePost(CCSPlayerPawn victimPawn, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\AgdsSimpleRpg.cs:line 271
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.BasePlugin.<>c__DisplayClass56_0`1.<RegisterListener>b__2(ScriptContext context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 305
+   at InvokeStub_Func`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context)
+2026-06-05 17:37:35.448 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Modules.Memory.Schema.GetRef[T](IntPtr pointer, String className, String memberName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Memory/Schema.cs:line 111
+   at CounterStrikeSharp.API.Core.CTakeDamageResult.get_HealthLost() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CTakeDamageResult.g.cs:line 27
+   at AgdsSimpleRpg.AssassinClass.OnPlayerTakeDamagePost(CCSPlayerController attacker, CCSPlayerController victim, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult, String weapon) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\Classes.cs:line 95
+   at AgdsSimpleRpg.AgdsSimpleRpgPlugin.OnPlayerTakeDamagePost(CCSPlayerPawn victimPawn, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\AgdsSimpleRpg.cs:line 271
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.BasePlugin.<>c__DisplayClass56_0`1.<RegisterListener>b__2(ScriptContext context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 305
+   at InvokeStub_Func`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context)
+2026-06-05 17:37:55.185 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Modules.Memory.Schema.GetRef[T](IntPtr pointer, String className, String memberName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Memory/Schema.cs:line 111
+   at CounterStrikeSharp.API.Core.CTakeDamageResult.get_HealthLost() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CTakeDamageResult.g.cs:line 27
+   at AgdsSimpleRpg.AssassinClass.OnPlayerTakeDamagePost(CCSPlayerController attacker, CCSPlayerController victim, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult, String weapon) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\Classes.cs:line 95
+   at AgdsSimpleRpg.AgdsSimpleRpgPlugin.OnPlayerTakeDamagePost(CCSPlayerPawn victimPawn, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\AgdsSimpleRpg.cs:line 271
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.BasePlugin.<>c__DisplayClass56_0`1.<RegisterListener>b__2(ScriptContext context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 305
+   at InvokeStub_Func`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context)
+2026-06-05 17:41:41.475 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Modules.Memory.Schema.GetRef[T](IntPtr pointer, String className, String memberName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Memory/Schema.cs:line 111
+   at CounterStrikeSharp.API.Core.CTakeDamageResult.get_HealthLost() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CTakeDamageResult.g.cs:line 27
+   at AgdsSimpleRpg.AssassinClass.OnPlayerTakeDamagePost(CCSPlayerController attacker, CCSPlayerController victim, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult, String weapon) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\Classes.cs:line 95
+   at AgdsSimpleRpg.AgdsSimpleRpgPlugin.OnPlayerTakeDamagePost(CCSPlayerPawn victimPawn, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\AgdsSimpleRpg.cs:line 271
+   at InvokeStub_OnPlayerTakeDamagePost.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.BasePlugin.<>c__DisplayClass56_0`1.<RegisterListener>b__2(ScriptContext context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 305
+   at InvokeStub_Func`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context)
+2026-06-05 17:43:04.285 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Modules.Memory.Schema.GetRef[T](IntPtr pointer, String className, String memberName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Memory/Schema.cs:line 111
+   at CounterStrikeSharp.API.Core.CTakeDamageResult.get_HealthLost() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CTakeDamageResult.g.cs:line 27
+   at AgdsSimpleRpg.AssassinClass.OnPlayerTakeDamagePost(CCSPlayerController attacker, CCSPlayerController victim, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult, String weapon) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\Classes.cs:line 95
+   at AgdsSimpleRpg.AgdsSimpleRpgPlugin.OnPlayerTakeDamagePost(CCSPlayerPawn victimPawn, CTakeDamageInfo damageInfo, CTakeDamageResult damageResult) in C:\Users\User\OneDrive\WEB DEV\PROJECTS\C#\AgdsSimpleRpg\AgdsSimpleRpg.cs:line 271
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.BasePlugin.<>c__DisplayClass56_0`1.<RegisterListener>b__2(ScriptContext context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 305
+   at InvokeStub_Func`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context)
+2026-06-05 17:46:27.283 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 17:46:27.283 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 17:46:27.283 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 17:46:27.486 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 17:46:27.492 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 17:46:27.498 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 17:51:32.096 +03:00 [INFO] (cssharp:PluginContext) Plugin Agds Simple RPG has been deleted, unloading...
+2026-06-05 17:51:32.096 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Agds Simple RPG
+2026-06-05 17:51:32.096 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Agds Simple RPG
+2026-06-05 17:51:32.299 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Agds Simple RPG
+2026-06-05 17:51:32.302 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 17:51:32.306 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 18:29:52.416 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-05 18:29:52.468 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-05 18:29:52.471 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-05 18:29:52.472 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-05 18:29:52.479 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 18:29:52.479 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-05 18:29:52.479 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-05 18:29:52.618 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-05 18:29:52.624 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-05 18:29:52.628 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-05 18:29:52.661 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-05 18:29:52.665 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-05 18:29:52.667 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-05 18:29:52.670 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-05 18:29:52.693 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-05 18:29:52.697 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 18:29:52.712 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 18:29:52.717 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-05 18:29:52.718 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-05 18:29:52.722 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-05 18:29:52.723 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-05 18:29:52.739 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-05 18:29:52.845 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-05 18:29:52.850 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-05 18:29:52.854 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-05 18:29:52.857 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-05 18:29:52.858 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-05 18:29:52.862 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-05 18:29:52.868 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-05 18:30:01.119 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 18:30:04.552 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 22:46:50.206 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-05 22:46:50.298 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-05 22:46:50.302 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-05 22:46:50.303 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-05 22:46:50.310 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 22:46:50.310 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-05 22:46:50.311 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-05 22:46:50.585 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-05 22:46:50.595 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-05 22:46:50.601 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-05 22:46:50.643 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-05 22:46:50.650 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-05 22:46:50.652 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-05 22:46:50.658 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-05 22:46:50.690 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-05 22:46:50.696 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-05 22:46:50.712 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-05 22:46:50.718 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-05 22:46:50.719 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-05 22:46:50.725 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-05 22:46:50.727 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-05 22:46:50.743 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-05 22:46:50.856 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-05 22:46:50.862 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-05 22:46:50.863 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-05 22:46:50.868 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-05 22:46:50.869 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-05 22:46:50.875 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-05 22:46:50.881 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-05 22:47:00.014 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-05 22:47:02.017 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.

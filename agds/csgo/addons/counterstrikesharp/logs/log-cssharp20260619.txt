@@ -1,0 +1,29 @@
+2026-06-19 02:44:53.673 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-19 02:44:53.757 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-19 02:44:53.760 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-19 02:44:53.762 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-19 02:44:53.768 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-19 02:44:53.769 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-19 02:44:53.769 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-19 02:44:53.990 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-19 02:44:53.999 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-19 02:44:54.004 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-19 02:44:54.043 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-19 02:44:54.048 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-19 02:44:54.050 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-19 02:44:54.056 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-19 02:44:54.086 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-19 02:44:54.092 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-19 02:44:54.094 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-19 02:44:54.100 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-19 02:44:54.102 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-19 02:44:54.115 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-19 02:44:54.218 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-19 02:44:54.224 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-19 02:44:54.233 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-19 02:44:54.237 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-19 02:44:54.238 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-19 02:44:54.242 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-19 02:44:54.250 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-19 02:45:02.553 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-19 02:45:04.554 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.

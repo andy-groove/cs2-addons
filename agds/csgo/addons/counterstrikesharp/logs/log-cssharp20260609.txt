@@ -1,0 +1,95 @@
+2026-06-09 01:41:19.504 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-09 01:41:19.578 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-09 01:41:19.582 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-09 01:41:19.584 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-09 01:41:19.591 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-09 01:41:19.592 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-09 01:41:19.592 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-09 01:41:19.808 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-09 01:41:19.817 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-09 01:41:19.825 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-09 01:41:19.865 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-09 01:41:19.872 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-09 01:41:19.874 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-09 01:41:19.880 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-09 01:41:19.911 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-09 01:41:19.918 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-09 01:41:19.935 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-09 01:41:19.941 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-09 01:41:19.942 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-09 01:41:19.949 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-09 01:41:19.950 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-09 01:41:19.967 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-09 01:41:20.084 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-09 01:41:20.090 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-09 01:41:20.091 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-09 01:41:20.096 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-09 01:41:20.096 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-09 01:41:20.102 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-09 01:41:20.109 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-09 01:41:28.381 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-09 01:41:30.381 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-09 01:43:37.223 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Core.CCSPlayerController.get_PlayerPawn() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CCSPlayerController.g.cs:line 235
+   at BotBuyPatch.BotBuyPatch.<>c__DisplayClass18_0.<OnRoundStart>b__7() in C:\Games\BETTERBOTS\FINAL\BotBuy\BotBuy.cs:line 258
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101
+2026-06-09 01:43:37.229 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Core.CCSPlayerController.get_PlayerPawn() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CCSPlayerController.g.cs:line 235
+   at BotBuyPatch.BotBuyPatch.<>c__DisplayClass18_0.<OnRoundStart>b__6() in C:\Games\BETTERBOTS\FINAL\BotBuy\BotBuy.cs:line 231
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101
+2026-06-09 01:43:37.229 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Core.CCSPlayerController.get_PlayerPawn() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Generated/Schema/Classes/CCSPlayerController.g.cs:line 235
+   at BotBuyPatch.BotBuyPatch.<>c__DisplayClass18_0.<OnRoundStart>b__5() in C:\Games\BETTERBOTS\FINAL\BotBuy\BotBuy.cs:line 213
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101
+2026-06-09 01:47:24.595 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-09 01:47:24.650 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-09 01:47:24.653 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-09 01:47:24.655 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-09 01:47:24.662 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-09 01:47:24.662 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-09 01:47:24.663 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-09 01:47:24.793 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-09 01:47:24.799 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-09 01:47:24.803 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-09 01:47:24.839 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-09 01:47:24.843 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-09 01:47:24.845 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-09 01:47:24.850 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-09 01:47:24.872 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-09 01:47:24.877 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsSimpleRpg
+2026-06-09 01:47:24.892 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Simple RPG
+2026-06-09 01:47:24.898 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-09 01:47:24.899 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-09 01:47:24.903 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-09 01:47:24.905 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-09 01:47:24.918 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-09 01:47:25.022 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-09 01:47:25.028 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-09 01:47:25.029 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-09 01:47:25.032 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsMoonMode
+2026-06-09 01:47:25.033 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Moon Mode
+2026-06-09 01:47:25.038 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-09 01:47:25.045 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-09 01:47:33.086 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-09 01:47:35.080 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.

@@ -1,0 +1,757 @@
+2026-06-25 02:00:25.309 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-25 02:00:25.384 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-25 02:00:25.386 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-25 02:00:25.388 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-25 02:00:25.395 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 02:00:25.395 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-25 02:00:25.395 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-25 02:00:25.590 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-25 02:00:25.599 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-25 02:00:25.605 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-25 02:00:25.618 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-06-25 02:00:25.623 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-06-25 02:00:25.633 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-06-25 02:00:25.638 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-06-25 02:00:25.639 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x7AE8CA1E0B80 (2 bytes)
+2026-06-25 02:00:25.639 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-06-25 02:00:25.642 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-06-25 02:00:25.642 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x7AE8CA1E9943 (5 bytes)
+2026-06-25 02:00:25.642 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-06-25 02:00:25.643 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-06-25 02:00:25.643 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-25 02:00:25.648 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-25 02:00:25.650 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-25 02:00:25.655 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-25 02:00:25.684 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-25 02:00:25.691 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-25 02:00:25.693 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-25 02:00:25.697 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-25 02:00:25.699 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-25 02:00:25.703 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsBotsRush
+2026-06-25 02:00:25.704 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Agds Bots Rush
+2026-06-25 02:00:25.718 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-25 02:00:25.825 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-25 02:00:25.831 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-25 02:00:25.832 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-25 02:00:25.837 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-25 02:00:25.844 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-25 02:00:28.571 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ban` with aliases: `css_ban`
+2026-06-25 02:00:28.575 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addban` with aliases: `css_addban`
+2026-06-25 02:00:28.575 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_banip` with aliases: `css_banip`
+2026-06-25 02:00:28.575 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unban` with aliases: `css_unban`
+2026-06-25 02:00:28.575 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warn` with aliases: `css_warn`
+2026-06-25 02:00:28.576 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unwarn` with aliases: `css_unwarn`
+2026-06-25 02:00:28.576 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_asay` with aliases: `css_asay`
+2026-06-25 02:00:28.576 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cssay` with aliases: `css_cssay`
+2026-06-25 02:00:28.576 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_say` with aliases: `css_say`
+2026-06-25 02:00:28.576 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_psay` with aliases: `css_psay`
+2026-06-25 02:00:28.576 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_csay` with aliases: `css_csay`
+2026-06-25 02:00:28.576 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hsay` with aliases: `css_hsay`
+2026-06-25 02:00:28.576 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_penalties` with aliases: `css_penalties, css_mypenalties, css_comms`
+2026-06-25 02:00:28.576 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_admin` with aliases: `css_admin`
+2026-06-25 02:00:28.576 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminhelp` with aliases: `css_adminhelp`
+2026-06-25 02:00:28.577 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addadmin` with aliases: `css_addadmin`
+2026-06-25 02:00:28.577 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_deladmin` with aliases: `css_deladmin`
+2026-06-25 02:00:28.577 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgroup` with aliases: `css_addgroup`
+2026-06-25 02:00:28.577 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_delgroup` with aliases: `css_delgroup`
+2026-06-25 02:00:28.577 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadadmins` with aliases: `css_reloadadmins`
+2026-06-25 02:00:28.577 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadbans` with aliases: `css_reloadbans`
+2026-06-25 02:00:28.577 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hide` with aliases: `css_hide, css_stealth`
+2026-06-25 02:00:28.577 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hidecomms` with aliases: `css_hidecomms`
+2026-06-25 02:00:28.577 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_who` with aliases: `css_who`
+2026-06-25 02:00:28.577 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_disconnected` with aliases: `css_disconnected, css_last`
+2026-06-25 02:00:28.578 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warns` with aliases: `css_warns`
+2026-06-25 02:00:28.578 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_players` with aliases: `css_players`
+2026-06-25 02:00:28.578 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_kick` with aliases: `css_kick`
+2026-06-25 02:00:28.578 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_map` with aliases: `css_map, css_changemap`
+2026-06-25 02:00:28.578 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_wsmap` with aliases: `css_wsmap, css_changewsmap, css_workshop`
+2026-06-25 02:00:28.578 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cvar` with aliases: `css_cvar`
+2026-06-25 02:00:28.578 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rcon` with aliases: `css_rcon`
+2026-06-25 02:00:28.578 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rr` with aliases: `css_rr, css_rg, css_restart, css_restartgame`
+2026-06-25 02:00:28.578 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_gag` with aliases: `css_gag`
+2026-06-25 02:00:28.579 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgag` with aliases: `css_addgag`
+2026-06-25 02:00:28.579 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ungag` with aliases: `css_ungag`
+2026-06-25 02:00:28.579 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_mute` with aliases: `css_mute`
+2026-06-25 02:00:28.579 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addmute` with aliases: `css_addmute`
+2026-06-25 02:00:28.579 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unmute` with aliases: `css_unmute`
+2026-06-25 02:00:28.579 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_silence` with aliases: `css_silence`
+2026-06-25 02:00:28.579 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addsilence` with aliases: `css_addsilence`
+2026-06-25 02:00:28.579 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unsilence` with aliases: `css_unsilence`
+2026-06-25 02:00:28.579 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_vote` with aliases: `css_vote`
+2026-06-25 02:00:28.579 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slay` with aliases: `css_slay`
+2026-06-25 02:00:28.579 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slap` with aliases: `css_slap`
+2026-06-25 02:00:28.580 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_team` with aliases: `css_team`
+2026-06-25 02:00:28.580 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rename` with aliases: `css_rename`
+2026-06-25 02:00:28.580 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_prename` with aliases: `css_prename`
+2026-06-25 02:00:28.580 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_resize` with aliases: `css_resize, css_size`
+2026-06-25 02:00:28.580 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_tp` with aliases: `css_tp, css_tpto, css_goto`
+2026-06-25 02:00:28.580 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_bring` with aliases: `css_bring, css_tphere`
+2026-06-25 02:00:28.580 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_pluginsmanager` with aliases: `css_pluginsmanager, css_pluginmanager`
+2026-06-25 02:00:28.580 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminvoice` with aliases: `css_adminvoice, css_listenall`
+2026-06-25 02:00:28.826 +03:00 [EROR] plugin:CS2-SimpleAdmin (RELEASE) An error occurred while checking version.
+System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 3 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at CS2_SimpleAdmin.PluginInfo.CheckVersion(String localVersion, ILogger logger)
+2026-06-25 02:00:29.103 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded server with ip 31.43.104.167
+2026-06-25 02:00:32.178 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded admins!
+2026-06-25 02:00:34.178 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 02:00:36.178 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 02:00:44.155 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 02:00:46.385 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 02:31:40.745 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-25 02:31:40.835 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-25 02:31:40.838 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-25 02:31:40.840 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-25 02:31:40.847 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 02:31:40.847 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-25 02:31:40.848 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-25 02:31:41.114 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-25 02:31:41.125 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-25 02:31:41.131 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-25 02:31:41.153 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-06-25 02:31:41.160 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-06-25 02:31:41.172 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-06-25 02:31:41.177 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-06-25 02:31:41.178 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x7E1F399E0B80 (2 bytes)
+2026-06-25 02:31:41.179 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-06-25 02:31:41.182 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-06-25 02:31:41.182 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x7E1F399E9943 (5 bytes)
+2026-06-25 02:31:41.182 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-06-25 02:31:41.183 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-06-25 02:31:41.183 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-25 02:31:41.190 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-25 02:31:41.192 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-25 02:31:41.199 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-25 02:31:41.234 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-25 02:31:41.243 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-25 02:31:41.244 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-25 02:31:41.251 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-25 02:31:41.254 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-25 02:31:41.272 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-25 02:31:41.390 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-25 02:31:41.403 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-25 02:31:41.405 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-25 02:31:41.411 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-25 02:31:41.418 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-25 02:31:41.779 +03:00 [WARN] plugin:CS2-SimpleAdmin (RELEASE) Plugin is outdated! Check https://github.com/daffyyyy/CS2-SimpleAdmin
+2026-06-25 02:31:44.181 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ban` with aliases: `css_ban`
+2026-06-25 02:31:44.183 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addban` with aliases: `css_addban`
+2026-06-25 02:31:44.183 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_banip` with aliases: `css_banip`
+2026-06-25 02:31:44.183 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unban` with aliases: `css_unban`
+2026-06-25 02:31:44.183 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warn` with aliases: `css_warn`
+2026-06-25 02:31:44.184 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unwarn` with aliases: `css_unwarn`
+2026-06-25 02:31:44.184 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_asay` with aliases: `css_asay`
+2026-06-25 02:31:44.185 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cssay` with aliases: `css_cssay`
+2026-06-25 02:31:44.185 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_say` with aliases: `css_say`
+2026-06-25 02:31:44.185 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_psay` with aliases: `css_psay`
+2026-06-25 02:31:44.186 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_csay` with aliases: `css_csay`
+2026-06-25 02:31:44.186 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hsay` with aliases: `css_hsay`
+2026-06-25 02:31:44.186 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_penalties` with aliases: `css_penalties, css_mypenalties, css_comms`
+2026-06-25 02:31:44.186 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_admin` with aliases: `css_admin`
+2026-06-25 02:31:44.186 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminhelp` with aliases: `css_adminhelp`
+2026-06-25 02:31:44.187 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addadmin` with aliases: `css_addadmin`
+2026-06-25 02:31:44.187 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_deladmin` with aliases: `css_deladmin`
+2026-06-25 02:31:44.187 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgroup` with aliases: `css_addgroup`
+2026-06-25 02:31:44.187 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_delgroup` with aliases: `css_delgroup`
+2026-06-25 02:31:44.188 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadadmins` with aliases: `css_reloadadmins`
+2026-06-25 02:31:44.188 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadbans` with aliases: `css_reloadbans`
+2026-06-25 02:31:44.188 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hide` with aliases: `css_hide, css_stealth`
+2026-06-25 02:31:44.188 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hidecomms` with aliases: `css_hidecomms`
+2026-06-25 02:31:44.188 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_who` with aliases: `css_who`
+2026-06-25 02:31:44.189 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_disconnected` with aliases: `css_disconnected, css_last`
+2026-06-25 02:31:44.189 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warns` with aliases: `css_warns`
+2026-06-25 02:31:44.189 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_players` with aliases: `css_players`
+2026-06-25 02:31:44.189 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_kick` with aliases: `css_kick`
+2026-06-25 02:31:44.189 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_map` with aliases: `css_map, css_changemap`
+2026-06-25 02:31:44.189 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_wsmap` with aliases: `css_wsmap, css_changewsmap, css_workshop`
+2026-06-25 02:31:44.189 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cvar` with aliases: `css_cvar`
+2026-06-25 02:31:44.190 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rcon` with aliases: `css_rcon`
+2026-06-25 02:31:44.190 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rr` with aliases: `css_rr, css_rg, css_restart, css_restartgame`
+2026-06-25 02:31:44.190 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_gag` with aliases: `css_gag`
+2026-06-25 02:31:44.190 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgag` with aliases: `css_addgag`
+2026-06-25 02:31:44.190 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ungag` with aliases: `css_ungag`
+2026-06-25 02:31:44.191 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_mute` with aliases: `css_mute`
+2026-06-25 02:31:44.191 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addmute` with aliases: `css_addmute`
+2026-06-25 02:31:44.191 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unmute` with aliases: `css_unmute`
+2026-06-25 02:31:44.191 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_silence` with aliases: `css_silence`
+2026-06-25 02:31:44.191 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addsilence` with aliases: `css_addsilence`
+2026-06-25 02:31:44.191 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unsilence` with aliases: `css_unsilence`
+2026-06-25 02:31:44.192 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_vote` with aliases: `css_vote`
+2026-06-25 02:31:44.192 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slay` with aliases: `css_slay`
+2026-06-25 02:31:44.192 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slap` with aliases: `css_slap`
+2026-06-25 02:31:44.192 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_team` with aliases: `css_team`
+2026-06-25 02:31:44.192 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rename` with aliases: `css_rename`
+2026-06-25 02:31:44.192 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_prename` with aliases: `css_prename`
+2026-06-25 02:31:44.192 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_resize` with aliases: `css_resize, css_size`
+2026-06-25 02:31:44.193 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_tp` with aliases: `css_tp, css_tpto, css_goto`
+2026-06-25 02:31:44.193 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_bring` with aliases: `css_bring, css_tphere`
+2026-06-25 02:31:44.193 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_pluginsmanager` with aliases: `css_pluginsmanager, css_pluginmanager`
+2026-06-25 02:31:44.193 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminvoice` with aliases: `css_adminvoice, css_listenall`
+2026-06-25 02:31:44.701 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded server with ip 31.43.104.167
+2026-06-25 02:31:47.731 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded admins!
+2026-06-25 02:31:49.734 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 02:31:51.731 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 02:33:32.264 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 02:33:34.480 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 02:36:57.610 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 02:37:00.845 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 02:58:06.078 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-25 02:58:06.121 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-25 02:58:06.125 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-25 02:58:06.126 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-25 02:58:06.131 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 02:58:06.131 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-25 02:58:06.132 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-25 02:58:06.249 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-25 02:58:06.255 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-25 02:58:06.259 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-25 02:58:06.267 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-06-25 02:58:06.272 +03:00 [INFO] plugin:Patches - Bot AI Using Linux patch definitions
+2026-06-25 02:58:06.282 +03:00 [EROR] plugin:Patches - Bot AI Failed to apply HasVisitedEnemySpawn patch!
+2026-06-25 02:58:06.286 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse': original bytes validated successfully
+2026-06-25 02:58:06.287 +03:00 [INFO] plugin:Patches - Bot AI Patch 'Idle_IsSafeAlwaysFalse' applied at 0x78E10EDE0B80 (2 bytes)
+2026-06-25 02:58:06.287 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse patch applied successfully!
+2026-06-25 02:58:06.290 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife': original bytes validated successfully
+2026-06-25 02:58:06.290 +03:00 [INFO] plugin:Patches - Bot AI Patch 'EscapeFromFlames_OnEnter_NoEquipKnife' applied at 0x78E10EDE9943 (5 bytes)
+2026-06-25 02:58:06.290 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife patch applied successfully!
+2026-06-25 02:58:06.291 +03:00 [INFO] plugin:Patches - Bot AI Applied 2/3 patches.
+2026-06-25 02:58:06.291 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-25 02:58:06.295 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-25 02:58:06.296 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-25 02:58:06.300 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-25 02:58:06.320 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-25 02:58:06.326 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-25 02:58:06.327 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-25 02:58:06.331 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-25 02:58:06.332 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-25 02:58:06.344 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-25 02:58:06.433 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-25 02:58:06.444 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AgdsRandomizer
+2026-06-25 02:58:06.446 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AgdsRandomizer
+2026-06-25 02:58:06.449 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-25 02:58:06.455 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-25 02:58:06.759 +03:00 [WARN] plugin:CS2-SimpleAdmin (RELEASE) Plugin is outdated! Check https://github.com/daffyyyy/CS2-SimpleAdmin
+2026-06-25 02:58:08.692 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ban` with aliases: `css_ban`
+2026-06-25 02:58:08.693 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addban` with aliases: `css_addban`
+2026-06-25 02:58:08.693 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_banip` with aliases: `css_banip`
+2026-06-25 02:58:08.693 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unban` with aliases: `css_unban`
+2026-06-25 02:58:08.693 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warn` with aliases: `css_warn`
+2026-06-25 02:58:08.693 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unwarn` with aliases: `css_unwarn`
+2026-06-25 02:58:08.693 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_asay` with aliases: `css_asay`
+2026-06-25 02:58:08.694 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cssay` with aliases: `css_cssay`
+2026-06-25 02:58:08.694 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_say` with aliases: `css_say`
+2026-06-25 02:58:08.694 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_psay` with aliases: `css_psay`
+2026-06-25 02:58:08.694 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_csay` with aliases: `css_csay`
+2026-06-25 02:58:08.694 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hsay` with aliases: `css_hsay`
+2026-06-25 02:58:08.694 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_penalties` with aliases: `css_penalties, css_mypenalties, css_comms`
+2026-06-25 02:58:08.694 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_admin` with aliases: `css_admin`
+2026-06-25 02:58:08.695 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminhelp` with aliases: `css_adminhelp`
+2026-06-25 02:58:08.695 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addadmin` with aliases: `css_addadmin`
+2026-06-25 02:58:08.695 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_deladmin` with aliases: `css_deladmin`
+2026-06-25 02:58:08.695 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgroup` with aliases: `css_addgroup`
+2026-06-25 02:58:08.695 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_delgroup` with aliases: `css_delgroup`
+2026-06-25 02:58:08.695 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadadmins` with aliases: `css_reloadadmins`
+2026-06-25 02:58:08.695 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadbans` with aliases: `css_reloadbans`
+2026-06-25 02:58:08.695 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hide` with aliases: `css_hide, css_stealth`
+2026-06-25 02:58:08.695 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hidecomms` with aliases: `css_hidecomms`
+2026-06-25 02:58:08.695 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_who` with aliases: `css_who`
+2026-06-25 02:58:08.696 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_disconnected` with aliases: `css_disconnected, css_last`
+2026-06-25 02:58:08.696 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warns` with aliases: `css_warns`
+2026-06-25 02:58:08.696 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_players` with aliases: `css_players`
+2026-06-25 02:58:08.696 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_kick` with aliases: `css_kick`
+2026-06-25 02:58:08.696 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_map` with aliases: `css_map, css_changemap`
+2026-06-25 02:58:08.696 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_wsmap` with aliases: `css_wsmap, css_changewsmap, css_workshop`
+2026-06-25 02:58:08.696 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cvar` with aliases: `css_cvar`
+2026-06-25 02:58:08.697 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rcon` with aliases: `css_rcon`
+2026-06-25 02:58:08.697 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rr` with aliases: `css_rr, css_rg, css_restart, css_restartgame`
+2026-06-25 02:58:08.697 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_gag` with aliases: `css_gag`
+2026-06-25 02:58:08.697 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgag` with aliases: `css_addgag`
+2026-06-25 02:58:08.697 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ungag` with aliases: `css_ungag`
+2026-06-25 02:58:08.697 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_mute` with aliases: `css_mute`
+2026-06-25 02:58:08.697 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addmute` with aliases: `css_addmute`
+2026-06-25 02:58:08.697 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unmute` with aliases: `css_unmute`
+2026-06-25 02:58:08.697 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_silence` with aliases: `css_silence`
+2026-06-25 02:58:08.697 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addsilence` with aliases: `css_addsilence`
+2026-06-25 02:58:08.697 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unsilence` with aliases: `css_unsilence`
+2026-06-25 02:58:08.698 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_vote` with aliases: `css_vote`
+2026-06-25 02:58:08.698 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slay` with aliases: `css_slay`
+2026-06-25 02:58:08.699 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slap` with aliases: `css_slap`
+2026-06-25 02:58:08.699 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_team` with aliases: `css_team`
+2026-06-25 02:58:08.699 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rename` with aliases: `css_rename`
+2026-06-25 02:58:08.699 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_prename` with aliases: `css_prename`
+2026-06-25 02:58:08.699 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_resize` with aliases: `css_resize, css_size`
+2026-06-25 02:58:08.699 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_tp` with aliases: `css_tp, css_tpto, css_goto`
+2026-06-25 02:58:08.699 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_bring` with aliases: `css_bring, css_tphere`
+2026-06-25 02:58:08.700 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_pluginsmanager` with aliases: `css_pluginsmanager, css_pluginmanager`
+2026-06-25 02:58:08.700 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminvoice` with aliases: `css_adminvoice, css_listenall`
+2026-06-25 02:58:09.231 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded server with ip 31.43.104.167
+2026-06-25 02:58:12.330 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded admins!
+2026-06-25 02:58:14.331 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 02:58:16.331 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 02:59:39.527 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 02:59:41.731 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 03:13:33.445 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Patches - Bot AI
+2026-06-25 03:13:33.446 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Patches - Bot AI
+2026-06-25 03:13:33.447 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches unloading...
+2026-06-25 03:13:33.448 +03:00 [INFO] plugin:Patches - Bot AI All patches restored.
+2026-06-25 03:13:33.450 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Patches - Bot AI
+2026-06-25 03:13:33.460 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-25 03:13:33.462 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-06-25 03:13:33.476 +03:00 [INFO] plugin:Patches - Bot AI 'HasVisitedEnemySpawn' patched at 0x78E10F892980 (7 bytes).
+2026-06-25 03:13:33.476 +03:00 [INFO] plugin:Patches - Bot AI HasVisitedEnemySpawn: applied.
+2026-06-25 03:13:33.480 +03:00 [INFO] plugin:Patches - Bot AI 'GameState_Reset' patched at 0x78E10F56416E (8 bytes).
+2026-06-25 03:13:33.480 +03:00 [INFO] plugin:Patches - Bot AI GameState_Reset: applied.
+2026-06-25 03:13:33.483 +03:00 [INFO] plugin:Patches - Bot AI 'Idle_IsSafeAlwaysFalse' patched at 0x78E10EDE35B2 (2 bytes).
+2026-06-25 03:13:33.483 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse: applied.
+2026-06-25 03:13:33.484 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromBomb_OnEnter_NoEquipKnife' patched at 0x78E10EDE9861 (5 bytes).
+2026-06-25 03:13:33.484 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromBomb_OnEnter_NoEquipKnife: applied.
+2026-06-25 03:13:33.486 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromBomb_OnUpdate_NoEquipKnife' patched at 0x78E10EDE06D9 (5 bytes).
+2026-06-25 03:13:33.487 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromBomb_OnUpdate_NoEquipKnife: applied.
+2026-06-25 03:13:33.487 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromFlames_OnEnter_NoEquipKnife' patched at 0x78E10EDE9943 (5 bytes).
+2026-06-25 03:13:33.488 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife: applied.
+2026-06-25 03:13:33.490 +03:00 [INFO] plugin:Patches - Bot AI 'PlantBombLookAtPriorityLow' patched at 0x78E10EDDCA0F (5 bytes).
+2026-06-25 03:13:33.490 +03:00 [INFO] plugin:Patches - Bot AI PlantBombLookAtPriorityLow: applied.
+2026-06-25 03:13:33.491 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombLookAtPriorityLow' patched at 0x78E10EDDE2A8 (5 bytes).
+2026-06-25 03:13:33.492 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombLookAtPriorityLow: applied.
+2026-06-25 03:13:33.493 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBomb_SkipIsVisibleCheck' patched at 0x78E10EDDEF8A (6 bytes).
+2026-06-25 03:13:33.493 +03:00 [INFO] plugin:Patches - Bot AI DefuseBomb_SkipIsVisibleCheck: applied.
+2026-06-25 03:13:33.494 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipFireRateCheck' patched at 0x78E10EBE8B38 (6 bytes).
+2026-06-25 03:13:33.494 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipFireRateCheck: applied.
+2026-06-25 03:13:33.495 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipSteadyFireShortcut' patched at 0x78E10EDE9248 (6 bytes).
+2026-06-25 03:13:33.495 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipSteadyFireShortcut: applied.
+2026-06-25 03:13:33.496 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipZoomFireShortcut' patched at 0x78E10EDE9573 (6 bytes).
+2026-06-25 03:13:33.496 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipZoomFireShortcut: applied.
+2026-06-25 03:13:33.497 +03:00 [INFO] plugin:Patches - Bot AI 'SprayAllDistances_ForceHoldTrigger' patched at 0x78E10EDE97B9 (5 bytes).
+2026-06-25 03:13:33.497 +03:00 [INFO] plugin:Patches - Bot AI SprayAllDistances_ForceHoldTrigger: applied.
+2026-06-25 03:13:33.500 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_DodgeChance100_Always' patched at 0x78E10EDE7E32 (6 bytes).
+2026-06-25 03:13:33.500 +03:00 [INFO] plugin:Patches - Bot AI AttackState_DodgeChance100_Always: applied.
+2026-06-25 03:13:33.503 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_RetreatOnSniper_Disable' patched at 0x78E10EDE8D83 (6 bytes).
+2026-06-25 03:13:33.503 +03:00 [INFO] plugin:Patches - Bot AI AttackState_RetreatOnSniper_Disable: applied.
+2026-06-25 03:13:33.506 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipSniperSpreadCheck' patched at 0x78E10EDE959D (6 bytes).
+2026-06-25 03:13:33.506 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipSniperSpreadCheck: applied.
+2026-06-25 03:13:33.507 +03:00 [INFO] plugin:Patches - Bot AI 'AllSkill_KeepMoving_WhenSeeSniper' patched at 0x78E10ED73BFA (2 bytes).
+2026-06-25 03:13:33.507 +03:00 [INFO] plugin:Patches - Bot AI AllSkill_KeepMoving_WhenSeeSniper: applied.
+2026-06-25 03:13:33.508 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_CanStrafe_jne' patched at 0x78E10EDE8967 (2 bytes).
+2026-06-25 03:13:33.508 +03:00 [INFO] plugin:Patches - Bot AI AttackState_CanStrafe_jne: applied.
+2026-06-25 03:13:33.509 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_DodgeDuringReload' patched at 0x78E10EDE7DAE (6 bytes).
+2026-06-25 03:13:33.509 +03:00 [INFO] plugin:Patches - Bot AI AttackState_DodgeDuringReload: applied.
+2026-06-25 03:13:33.511 +03:00 [INFO] plugin:Patches - Bot AI 'SniperCrouchDodge_jb' patched at 0x78E10EDE7D8F (6 bytes).
+2026-06-25 03:13:33.511 +03:00 [INFO] plugin:Patches - Bot AI SniperCrouchDodge_jb: applied.
+2026-06-25 03:13:33.514 +03:00 [INFO] plugin:Patches - Bot AI 'SniperDodge_SkipIsSniper_DodgeA' patched at 0x78E10EDE7DDA (6 bytes).
+2026-06-25 03:13:33.514 +03:00 [INFO] plugin:Patches - Bot AI SniperDodge_SkipIsSniper_DodgeA: applied.
+2026-06-25 03:13:33.519 +03:00 [INFO] plugin:Patches - Bot AI 'LowSKill_JumpChance0' patched at 0x78E10F528BCD (2 bytes).
+2026-06-25 03:13:33.519 +03:00 [INFO] plugin:Patches - Bot AI LowSKill_JumpChance0: applied.
+2026-06-25 03:13:33.520 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_SkipIsMovingGate' patched at 0x78E10ED5D7D6 (6 bytes).
+2026-06-25 03:13:33.520 +03:00 [INFO] plugin:Patches - Bot AI Vision_SkipIsMovingGate: applied.
+2026-06-25 03:13:33.521 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_AlwaysEnterApproachBody' patched at 0x78E10ED5DEF7 (6 bytes).
+2026-06-25 03:13:33.521 +03:00 [INFO] plugin:Patches - Bot AI Vision_AlwaysEnterApproachBody: applied.
+2026-06-25 03:13:33.522 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_AlwaysWatchApproachPoints' patched at 0x78E10ED5DE00 (6 bytes).
+2026-06-25 03:13:33.522 +03:00 [INFO] plugin:Patches - Bot AI Vision_AlwaysWatchApproachPoints: applied.
+2026-06-25 03:13:33.523 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_ApproachBody_SkipSkillCheck' patched at 0x78E10ED5DD11 (2 bytes).
+2026-06-25 03:13:33.523 +03:00 [INFO] plugin:Patches - Bot AI Vision_ApproachBody_SkipSkillCheck: applied.
+2026-06-25 03:13:33.525 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_ApproachBody_SkipHidingSpotCheck' patched at 0x78E10ED5DD55 (2 bytes).
+2026-06-25 03:13:33.525 +03:00 [INFO] plugin:Patches - Bot AI Vision_ApproachBody_SkipHidingSpotCheck: applied.
+2026-06-25 03:13:33.526 +03:00 [INFO] plugin:Patches - Bot AI 'IsNoticable_AlwaysTrue' patched at 0x78E10ED48870 (3 bytes).
+2026-06-25 03:13:33.526 +03:00 [INFO] plugin:Patches - Bot AI IsNoticable_AlwaysTrue: applied.
+2026-06-25 03:13:33.528 +03:00 [INFO] plugin:Patches - Bot AI 'InViewCone_RemoveOuterFOV' patched at 0x78E10ED3D4E9 (2 bytes).
+2026-06-25 03:13:33.528 +03:00 [INFO] plugin:Patches - Bot AI InViewCone_RemoveOuterFOV: applied.
+2026-06-25 03:13:33.530 +03:00 [INFO] plugin:Patches - Bot AI 'InViewCone_RemoveInnerFOV' patched at 0x78E10ED3D508 (3 bytes).
+2026-06-25 03:13:33.530 +03:00 [INFO] plugin:Patches - Bot AI InViewCone_RemoveInnerFOV: applied.
+2026-06-25 03:13:33.531 +03:00 [INFO] plugin:Patches - Bot AI 'InvestigateNoise_SkipSelfDefenseCheck' patched at 0x78E10EDF4834 (2 bytes).
+2026-06-25 03:13:33.531 +03:00 [INFO] plugin:Patches - Bot AI InvestigateNoise_SkipSelfDefenseCheck: applied.
+2026-06-25 03:13:33.532 +03:00 [INFO] plugin:Patches - Bot AI 'OnAudibleEvent_GlobalHearRange' patched at 0x78E10ED59068 (6 bytes).
+2026-06-25 03:13:33.532 +03:00 [INFO] plugin:Patches - Bot AI OnAudibleEvent_GlobalHearRange: applied.
+2026-06-25 03:13:33.535 +03:00 [INFO] plugin:Patches - Bot AI 'TBot_BombsiteSearch_UseKnownPlantedSite' patched at 0x78E10EDE28BF (5 bytes).
+2026-06-25 03:13:33.535 +03:00 [INFO] plugin:Patches - Bot AI TBot_BombsiteSearch_UseKnownPlantedSite: applied.
+2026-06-25 03:13:33.536 +03:00 [INFO] plugin:Patches - Bot AI 'BombPickup_CT_GlobalHearRange' patched at 0x78E10EDDE4F1 (2 bytes).
+2026-06-25 03:13:33.536 +03:00 [INFO] plugin:Patches - Bot AI BombPickup_CT_GlobalHearRange: applied.
+2026-06-25 03:13:33.537 +03:00 [INFO] plugin:Patches - Bot AI 'BombBeep_CT_GlobalHearRange' patched at 0x78E10ED51D28 (6 bytes).
+2026-06-25 03:13:33.537 +03:00 [INFO] plugin:Patches - Bot AI BombBeep_CT_GlobalHearRange: applied.
+2026-06-25 03:13:33.539 +03:00 [INFO] plugin:Patches - Bot AI 'OnBombPlanted_AllBotsLearnSite' patched at 0x78E10ED754FA (6 bytes).
+2026-06-25 03:13:33.540 +03:00 [INFO] plugin:Patches - Bot AI OnBombPlanted_AllBotsLearnSite: applied.
+2026-06-25 03:13:33.542 +03:00 [INFO] plugin:Patches - Bot AI 'CT_Defuse_EngageAndInvestigate' patched at 0x78E10EDE2010 (5 bytes).
+2026-06-25 03:13:33.542 +03:00 [INFO] plugin:Patches - Bot AI CT_Defuse_EngageAndInvestigate: applied.
+2026-06-25 03:13:33.543 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombState_OnUpdate_EngageAndInvestigate' patched at 0x78E10EDDE276 (5 bytes).
+2026-06-25 03:13:33.543 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombState_OnUpdate_EngageAndInvestigate: applied.
+2026-06-25 03:13:33.544 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombState_OnEnter_EngageAndInvestigate' patched at 0x78E10EDDB8CA (5 bytes).
+2026-06-25 03:13:33.544 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombState_OnEnter_EngageAndInvestigate: applied.
+2026-06-25 03:13:33.547 +03:00 [INFO] plugin:Patches - Bot AI 'FlashbangAvoidance_Disable' patched at 0x78E10ED735E4 (14 bytes).
+2026-06-25 03:13:33.547 +03:00 [INFO] plugin:Patches - Bot AI FlashbangAvoidance_Disable: applied.
+2026-06-25 03:13:33.547 +03:00 [INFO] plugin:Patches - Bot AI Applied 40/40 patches.
+2026-06-25 03:13:33.547 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-25 03:13:39.111 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin BotAimImprover
+2026-06-25 03:13:39.111 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin BotAimImprover
+2026-06-25 03:13:39.111 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin BotAimImprover
+2026-06-25 03:13:44.424 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin BotBuyPatch
+2026-06-25 03:13:44.424 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin BotBuyPatch
+2026-06-25 03:13:44.424 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin BotBuyPatch
+2026-06-25 03:14:47.310 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin Smarter-Bot
+2026-06-25 03:14:47.310 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Smarter-Bot
+2026-06-25 03:14:47.310 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Smarter-Bot
+2026-06-25 03:20:00.553 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-25 03:20:00.601 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-25 03:20:00.604 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-25 03:20:00.605 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-25 03:20:00.612 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 03:20:00.612 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-25 03:20:00.613 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-25 03:20:00.768 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-25 03:20:00.787 +03:00 [INFO] plugin:BotAimImprover [BotAimImprover] Loaded (Linux). PickNewAimSpot=0x000073BDBE6B4860
+2026-06-25 03:20:00.792 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-25 03:20:00.810 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotRandomizer
+2026-06-25 03:20:00.922 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotRandomizer
+2026-06-25 03:20:00.927 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RayTraceImpl
+2026-06-25 03:20:00.928 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RayTraceImpl
+2026-06-25 03:20:00.932 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-25 03:20:00.935 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-06-25 03:20:00.948 +03:00 [INFO] plugin:Patches - Bot AI 'HasVisitedEnemySpawn' patched at 0x73BDD2892980 (7 bytes).
+2026-06-25 03:20:00.948 +03:00 [INFO] plugin:Patches - Bot AI HasVisitedEnemySpawn: applied.
+2026-06-25 03:20:00.952 +03:00 [INFO] plugin:Patches - Bot AI 'GameState_Reset' patched at 0x73BDD256416E (8 bytes).
+2026-06-25 03:20:00.952 +03:00 [INFO] plugin:Patches - Bot AI GameState_Reset: applied.
+2026-06-25 03:20:00.954 +03:00 [INFO] plugin:Patches - Bot AI 'Idle_IsSafeAlwaysFalse' patched at 0x73BDD1DE35B2 (2 bytes).
+2026-06-25 03:20:00.954 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse: applied.
+2026-06-25 03:20:00.955 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromBomb_OnEnter_NoEquipKnife' patched at 0x73BDD1DE9861 (5 bytes).
+2026-06-25 03:20:00.956 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromBomb_OnEnter_NoEquipKnife: applied.
+2026-06-25 03:20:00.958 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromBomb_OnUpdate_NoEquipKnife' patched at 0x73BDD1DE06D9 (5 bytes).
+2026-06-25 03:20:00.958 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromBomb_OnUpdate_NoEquipKnife: applied.
+2026-06-25 03:20:00.959 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromFlames_OnEnter_NoEquipKnife' patched at 0x73BDD1DE9943 (5 bytes).
+2026-06-25 03:20:00.959 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife: applied.
+2026-06-25 03:20:00.962 +03:00 [INFO] plugin:Patches - Bot AI 'PlantBombLookAtPriorityLow' patched at 0x73BDD1DDCA0F (5 bytes).
+2026-06-25 03:20:00.962 +03:00 [INFO] plugin:Patches - Bot AI PlantBombLookAtPriorityLow: applied.
+2026-06-25 03:20:00.963 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombLookAtPriorityLow' patched at 0x73BDD1DDE2A8 (5 bytes).
+2026-06-25 03:20:00.963 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombLookAtPriorityLow: applied.
+2026-06-25 03:20:00.965 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBomb_SkipIsVisibleCheck' patched at 0x73BDD1DDEF8A (6 bytes).
+2026-06-25 03:20:00.965 +03:00 [INFO] plugin:Patches - Bot AI DefuseBomb_SkipIsVisibleCheck: applied.
+2026-06-25 03:20:00.966 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipFireRateCheck' patched at 0x73BDD1BE8B38 (6 bytes).
+2026-06-25 03:20:00.966 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipFireRateCheck: applied.
+2026-06-25 03:20:00.967 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipSteadyFireShortcut' patched at 0x73BDD1DE9248 (6 bytes).
+2026-06-25 03:20:00.967 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipSteadyFireShortcut: applied.
+2026-06-25 03:20:00.968 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipZoomFireShortcut' patched at 0x73BDD1DE9573 (6 bytes).
+2026-06-25 03:20:00.968 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipZoomFireShortcut: applied.
+2026-06-25 03:20:00.969 +03:00 [INFO] plugin:Patches - Bot AI 'SprayAllDistances_ForceHoldTrigger' patched at 0x73BDD1DE97B9 (5 bytes).
+2026-06-25 03:20:00.969 +03:00 [INFO] plugin:Patches - Bot AI SprayAllDistances_ForceHoldTrigger: applied.
+2026-06-25 03:20:00.972 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_DodgeChance100_Always' patched at 0x73BDD1DE7E32 (6 bytes).
+2026-06-25 03:20:00.972 +03:00 [INFO] plugin:Patches - Bot AI AttackState_DodgeChance100_Always: applied.
+2026-06-25 03:20:00.975 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_RetreatOnSniper_Disable' patched at 0x73BDD1DE8D83 (6 bytes).
+2026-06-25 03:20:00.975 +03:00 [INFO] plugin:Patches - Bot AI AttackState_RetreatOnSniper_Disable: applied.
+2026-06-25 03:20:00.978 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipSniperSpreadCheck' patched at 0x73BDD1DE959D (6 bytes).
+2026-06-25 03:20:00.978 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipSniperSpreadCheck: applied.
+2026-06-25 03:20:00.980 +03:00 [INFO] plugin:Patches - Bot AI 'AllSkill_KeepMoving_WhenSeeSniper' patched at 0x73BDD1D73BFA (2 bytes).
+2026-06-25 03:20:00.980 +03:00 [INFO] plugin:Patches - Bot AI AllSkill_KeepMoving_WhenSeeSniper: applied.
+2026-06-25 03:20:00.981 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_CanStrafe_jne' patched at 0x73BDD1DE8967 (2 bytes).
+2026-06-25 03:20:00.981 +03:00 [INFO] plugin:Patches - Bot AI AttackState_CanStrafe_jne: applied.
+2026-06-25 03:20:00.982 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_DodgeDuringReload' patched at 0x73BDD1DE7DAE (6 bytes).
+2026-06-25 03:20:00.982 +03:00 [INFO] plugin:Patches - Bot AI AttackState_DodgeDuringReload: applied.
+2026-06-25 03:20:00.984 +03:00 [INFO] plugin:Patches - Bot AI 'SniperCrouchDodge_jb' patched at 0x73BDD1DE7D8F (6 bytes).
+2026-06-25 03:20:00.984 +03:00 [INFO] plugin:Patches - Bot AI SniperCrouchDodge_jb: applied.
+2026-06-25 03:20:00.987 +03:00 [INFO] plugin:Patches - Bot AI 'SniperDodge_SkipIsSniper_DodgeA' patched at 0x73BDD1DE7DDA (6 bytes).
+2026-06-25 03:20:00.987 +03:00 [INFO] plugin:Patches - Bot AI SniperDodge_SkipIsSniper_DodgeA: applied.
+2026-06-25 03:20:00.992 +03:00 [INFO] plugin:Patches - Bot AI 'LowSKill_JumpChance0' patched at 0x73BDD2528BCD (2 bytes).
+2026-06-25 03:20:00.992 +03:00 [INFO] plugin:Patches - Bot AI LowSKill_JumpChance0: applied.
+2026-06-25 03:20:00.993 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_SkipIsMovingGate' patched at 0x73BDD1D5D7D6 (6 bytes).
+2026-06-25 03:20:00.993 +03:00 [INFO] plugin:Patches - Bot AI Vision_SkipIsMovingGate: applied.
+2026-06-25 03:20:00.994 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_AlwaysEnterApproachBody' patched at 0x73BDD1D5DEF7 (6 bytes).
+2026-06-25 03:20:00.994 +03:00 [INFO] plugin:Patches - Bot AI Vision_AlwaysEnterApproachBody: applied.
+2026-06-25 03:20:00.995 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_AlwaysWatchApproachPoints' patched at 0x73BDD1D5DE00 (6 bytes).
+2026-06-25 03:20:00.995 +03:00 [INFO] plugin:Patches - Bot AI Vision_AlwaysWatchApproachPoints: applied.
+2026-06-25 03:20:00.996 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_ApproachBody_SkipSkillCheck' patched at 0x73BDD1D5DD11 (2 bytes).
+2026-06-25 03:20:00.996 +03:00 [INFO] plugin:Patches - Bot AI Vision_ApproachBody_SkipSkillCheck: applied.
+2026-06-25 03:20:00.998 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_ApproachBody_SkipHidingSpotCheck' patched at 0x73BDD1D5DD55 (2 bytes).
+2026-06-25 03:20:00.998 +03:00 [INFO] plugin:Patches - Bot AI Vision_ApproachBody_SkipHidingSpotCheck: applied.
+2026-06-25 03:20:00.999 +03:00 [INFO] plugin:Patches - Bot AI 'IsNoticable_AlwaysTrue' patched at 0x73BDD1D48870 (3 bytes).
+2026-06-25 03:20:00.999 +03:00 [INFO] plugin:Patches - Bot AI IsNoticable_AlwaysTrue: applied.
+2026-06-25 03:20:01.001 +03:00 [INFO] plugin:Patches - Bot AI 'InViewCone_RemoveOuterFOV' patched at 0x73BDD1D3D4E9 (2 bytes).
+2026-06-25 03:20:01.001 +03:00 [INFO] plugin:Patches - Bot AI InViewCone_RemoveOuterFOV: applied.
+2026-06-25 03:20:01.003 +03:00 [INFO] plugin:Patches - Bot AI 'InViewCone_RemoveInnerFOV' patched at 0x73BDD1D3D508 (3 bytes).
+2026-06-25 03:20:01.003 +03:00 [INFO] plugin:Patches - Bot AI InViewCone_RemoveInnerFOV: applied.
+2026-06-25 03:20:01.004 +03:00 [INFO] plugin:Patches - Bot AI 'InvestigateNoise_SkipSelfDefenseCheck' patched at 0x73BDD1DF4834 (2 bytes).
+2026-06-25 03:20:01.004 +03:00 [INFO] plugin:Patches - Bot AI InvestigateNoise_SkipSelfDefenseCheck: applied.
+2026-06-25 03:20:01.005 +03:00 [INFO] plugin:Patches - Bot AI 'OnAudibleEvent_GlobalHearRange' patched at 0x73BDD1D59068 (6 bytes).
+2026-06-25 03:20:01.006 +03:00 [INFO] plugin:Patches - Bot AI OnAudibleEvent_GlobalHearRange: applied.
+2026-06-25 03:20:01.008 +03:00 [INFO] plugin:Patches - Bot AI 'TBot_BombsiteSearch_UseKnownPlantedSite' patched at 0x73BDD1DE28BF (5 bytes).
+2026-06-25 03:20:01.008 +03:00 [INFO] plugin:Patches - Bot AI TBot_BombsiteSearch_UseKnownPlantedSite: applied.
+2026-06-25 03:20:01.010 +03:00 [INFO] plugin:Patches - Bot AI 'BombPickup_CT_GlobalHearRange' patched at 0x73BDD1DDE4F1 (2 bytes).
+2026-06-25 03:20:01.010 +03:00 [INFO] plugin:Patches - Bot AI BombPickup_CT_GlobalHearRange: applied.
+2026-06-25 03:20:01.011 +03:00 [INFO] plugin:Patches - Bot AI 'BombBeep_CT_GlobalHearRange' patched at 0x73BDD1D51D28 (6 bytes).
+2026-06-25 03:20:01.011 +03:00 [INFO] plugin:Patches - Bot AI BombBeep_CT_GlobalHearRange: applied.
+2026-06-25 03:20:01.013 +03:00 [INFO] plugin:Patches - Bot AI 'OnBombPlanted_AllBotsLearnSite' patched at 0x73BDD1D754FA (6 bytes).
+2026-06-25 03:20:01.013 +03:00 [INFO] plugin:Patches - Bot AI OnBombPlanted_AllBotsLearnSite: applied.
+2026-06-25 03:20:01.016 +03:00 [INFO] plugin:Patches - Bot AI 'CT_Defuse_EngageAndInvestigate' patched at 0x73BDD1DE2010 (5 bytes).
+2026-06-25 03:20:01.016 +03:00 [INFO] plugin:Patches - Bot AI CT_Defuse_EngageAndInvestigate: applied.
+2026-06-25 03:20:01.017 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombState_OnUpdate_EngageAndInvestigate' patched at 0x73BDD1DDE276 (5 bytes).
+2026-06-25 03:20:01.017 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombState_OnUpdate_EngageAndInvestigate: applied.
+2026-06-25 03:20:01.018 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombState_OnEnter_EngageAndInvestigate' patched at 0x73BDD1DDB8CA (5 bytes).
+2026-06-25 03:20:01.018 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombState_OnEnter_EngageAndInvestigate: applied.
+2026-06-25 03:20:01.020 +03:00 [INFO] plugin:Patches - Bot AI 'FlashbangAvoidance_Disable' patched at 0x73BDD1D735E4 (14 bytes).
+2026-06-25 03:20:01.020 +03:00 [INFO] plugin:Patches - Bot AI FlashbangAvoidance_Disable: applied.
+2026-06-25 03:20:01.021 +03:00 [INFO] plugin:Patches - Bot AI Applied 40/40 patches.
+2026-06-25 03:20:01.021 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-25 03:20:01.025 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-25 03:20:01.026 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-25 03:20:01.030 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-25 03:20:01.057 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-25 03:20:01.066 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-25 03:20:01.066 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-25 03:20:01.070 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-25 03:20:01.072 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-25 03:20:01.075 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RoundDamageRecap
+2026-06-25 03:20:01.076 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RoundDamageRecap
+2026-06-25 03:20:01.078 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotHiderImpl
+2026-06-25 03:20:01.187 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotHiderImpl
+2026-06-25 03:20:01.198 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-25 03:20:01.297 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-25 03:20:01.302 +03:00 [INFO] (cssharp:PluginContext) Loading plugin NadeSystem
+2026-06-25 03:20:01.338 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin NadeSystem
+2026-06-25 03:20:01.342 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-25 03:20:01.349 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-25 03:20:01.625 +03:00 [WARN] plugin:CS2-SimpleAdmin (RELEASE) Plugin is outdated! Check https://github.com/daffyyyy/CS2-SimpleAdmin
+2026-06-25 03:20:03.626 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ban` with aliases: `css_ban`
+2026-06-25 03:20:03.627 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addban` with aliases: `css_addban`
+2026-06-25 03:20:03.627 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_banip` with aliases: `css_banip`
+2026-06-25 03:20:03.627 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unban` with aliases: `css_unban`
+2026-06-25 03:20:03.627 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warn` with aliases: `css_warn`
+2026-06-25 03:20:03.627 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unwarn` with aliases: `css_unwarn`
+2026-06-25 03:20:03.627 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_asay` with aliases: `css_asay`
+2026-06-25 03:20:03.627 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cssay` with aliases: `css_cssay`
+2026-06-25 03:20:03.627 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_say` with aliases: `css_say`
+2026-06-25 03:20:03.627 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_psay` with aliases: `css_psay`
+2026-06-25 03:20:03.627 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_csay` with aliases: `css_csay`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hsay` with aliases: `css_hsay`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_penalties` with aliases: `css_penalties, css_mypenalties, css_comms`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_admin` with aliases: `css_admin`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminhelp` with aliases: `css_adminhelp`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addadmin` with aliases: `css_addadmin`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_deladmin` with aliases: `css_deladmin`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgroup` with aliases: `css_addgroup`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_delgroup` with aliases: `css_delgroup`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadadmins` with aliases: `css_reloadadmins`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadbans` with aliases: `css_reloadbans`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hide` with aliases: `css_hide, css_stealth`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hidecomms` with aliases: `css_hidecomms`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_who` with aliases: `css_who`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_disconnected` with aliases: `css_disconnected, css_last`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warns` with aliases: `css_warns`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_players` with aliases: `css_players`
+2026-06-25 03:20:03.628 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_kick` with aliases: `css_kick`
+2026-06-25 03:20:03.629 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_map` with aliases: `css_map, css_changemap`
+2026-06-25 03:20:03.629 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_wsmap` with aliases: `css_wsmap, css_changewsmap, css_workshop`
+2026-06-25 03:20:03.629 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cvar` with aliases: `css_cvar`
+2026-06-25 03:20:03.629 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rcon` with aliases: `css_rcon`
+2026-06-25 03:20:03.629 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rr` with aliases: `css_rr, css_rg, css_restart, css_restartgame`
+2026-06-25 03:20:03.629 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_gag` with aliases: `css_gag`
+2026-06-25 03:20:03.629 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgag` with aliases: `css_addgag`
+2026-06-25 03:20:03.629 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ungag` with aliases: `css_ungag`
+2026-06-25 03:20:03.629 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_mute` with aliases: `css_mute`
+2026-06-25 03:20:03.629 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addmute` with aliases: `css_addmute`
+2026-06-25 03:20:03.630 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unmute` with aliases: `css_unmute`
+2026-06-25 03:20:03.630 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_silence` with aliases: `css_silence`
+2026-06-25 03:20:03.630 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addsilence` with aliases: `css_addsilence`
+2026-06-25 03:20:03.630 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unsilence` with aliases: `css_unsilence`
+2026-06-25 03:20:03.630 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_vote` with aliases: `css_vote`
+2026-06-25 03:20:03.630 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slay` with aliases: `css_slay`
+2026-06-25 03:20:03.630 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slap` with aliases: `css_slap`
+2026-06-25 03:20:03.630 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_team` with aliases: `css_team`
+2026-06-25 03:20:03.630 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rename` with aliases: `css_rename`
+2026-06-25 03:20:03.630 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_prename` with aliases: `css_prename`
+2026-06-25 03:20:03.630 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_resize` with aliases: `css_resize, css_size`
+2026-06-25 03:20:03.631 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_tp` with aliases: `css_tp, css_tpto, css_goto`
+2026-06-25 03:20:03.631 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_bring` with aliases: `css_bring, css_tphere`
+2026-06-25 03:20:03.631 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_pluginsmanager` with aliases: `css_pluginsmanager, css_pluginmanager`
+2026-06-25 03:20:03.631 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminvoice` with aliases: `css_adminvoice, css_listenall`
+2026-06-25 03:20:04.175 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded server with ip 31.43.104.167
+2026-06-25 03:20:07.184 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded admins!
+2026-06-25 03:20:09.187 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 03:20:11.187 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 03:25:12.893 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 03:25:15.081 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 03:26:36.979 +03:00 [INFO] plugin:BotAimImprover [BotAimImprover] Active: first override (weapon=weapon_hkp2000 point=JAW).
+2026-06-25 04:04:52.322 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-25 04:04:52.378 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-25 04:04:52.380 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-25 04:04:52.382 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-25 04:04:52.389 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 04:04:52.389 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-25 04:04:52.390 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-25 04:04:52.555 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-25 04:04:52.575 +03:00 [INFO] plugin:BotAimImprover [BotAimImprover] Loaded (Linux). PickNewAimSpot=0x000079E1A18B45E0
+2026-06-25 04:04:52.580 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-25 04:04:52.600 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotRandomizer
+2026-06-25 04:04:52.709 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotRandomizer
+2026-06-25 04:04:52.713 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RayTraceImpl
+2026-06-25 04:04:52.714 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RayTraceImpl
+2026-06-25 04:04:52.718 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-25 04:04:52.721 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-06-25 04:04:52.734 +03:00 [INFO] plugin:Patches - Bot AI 'HasVisitedEnemySpawn' patched at 0x79E1B5492980 (7 bytes).
+2026-06-25 04:04:52.734 +03:00 [INFO] plugin:Patches - Bot AI HasVisitedEnemySpawn: applied.
+2026-06-25 04:04:52.738 +03:00 [INFO] plugin:Patches - Bot AI 'GameState_Reset' patched at 0x79E1B516416E (8 bytes).
+2026-06-25 04:04:52.738 +03:00 [INFO] plugin:Patches - Bot AI GameState_Reset: applied.
+2026-06-25 04:04:52.741 +03:00 [INFO] plugin:Patches - Bot AI 'Idle_IsSafeAlwaysFalse' patched at 0x79E1B49E35B2 (2 bytes).
+2026-06-25 04:04:52.741 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse: applied.
+2026-06-25 04:04:52.742 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromBomb_OnEnter_NoEquipKnife' patched at 0x79E1B49E9861 (5 bytes).
+2026-06-25 04:04:52.742 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromBomb_OnEnter_NoEquipKnife: applied.
+2026-06-25 04:04:52.745 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromBomb_OnUpdate_NoEquipKnife' patched at 0x79E1B49E06D9 (5 bytes).
+2026-06-25 04:04:52.745 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromBomb_OnUpdate_NoEquipKnife: applied.
+2026-06-25 04:04:52.746 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromFlames_OnEnter_NoEquipKnife' patched at 0x79E1B49E9943 (5 bytes).
+2026-06-25 04:04:52.747 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife: applied.
+2026-06-25 04:04:52.749 +03:00 [INFO] plugin:Patches - Bot AI 'PlantBombLookAtPriorityLow' patched at 0x79E1B49DCA0F (5 bytes).
+2026-06-25 04:04:52.750 +03:00 [INFO] plugin:Patches - Bot AI PlantBombLookAtPriorityLow: applied.
+2026-06-25 04:04:52.751 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombLookAtPriorityLow' patched at 0x79E1B49DE2A8 (5 bytes).
+2026-06-25 04:04:52.751 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombLookAtPriorityLow: applied.
+2026-06-25 04:04:52.753 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBomb_SkipIsVisibleCheck' patched at 0x79E1B49DEF8A (6 bytes).
+2026-06-25 04:04:52.753 +03:00 [INFO] plugin:Patches - Bot AI DefuseBomb_SkipIsVisibleCheck: applied.
+2026-06-25 04:04:52.753 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipFireRateCheck' patched at 0x79E1B47E8B38 (6 bytes).
+2026-06-25 04:04:52.754 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipFireRateCheck: applied.
+2026-06-25 04:04:52.755 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipSteadyFireShortcut' patched at 0x79E1B49E9248 (6 bytes).
+2026-06-25 04:04:52.755 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipSteadyFireShortcut: applied.
+2026-06-25 04:04:52.756 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipZoomFireShortcut' patched at 0x79E1B49E9573 (6 bytes).
+2026-06-25 04:04:52.756 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipZoomFireShortcut: applied.
+2026-06-25 04:04:52.757 +03:00 [INFO] plugin:Patches - Bot AI 'SprayAllDistances_ForceHoldTrigger' patched at 0x79E1B49E97B9 (5 bytes).
+2026-06-25 04:04:52.757 +03:00 [INFO] plugin:Patches - Bot AI SprayAllDistances_ForceHoldTrigger: applied.
+2026-06-25 04:04:52.760 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_DodgeChance100_Always' patched at 0x79E1B49E7E32 (6 bytes).
+2026-06-25 04:04:52.760 +03:00 [INFO] plugin:Patches - Bot AI AttackState_DodgeChance100_Always: applied.
+2026-06-25 04:04:52.763 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_RetreatOnSniper_Disable' patched at 0x79E1B49E8D83 (6 bytes).
+2026-06-25 04:04:52.763 +03:00 [INFO] plugin:Patches - Bot AI AttackState_RetreatOnSniper_Disable: applied.
+2026-06-25 04:04:52.766 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipSniperSpreadCheck' patched at 0x79E1B49E959D (6 bytes).
+2026-06-25 04:04:52.766 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipSniperSpreadCheck: applied.
+2026-06-25 04:04:52.768 +03:00 [INFO] plugin:Patches - Bot AI 'AllSkill_KeepMoving_WhenSeeSniper' patched at 0x79E1B4973BFA (2 bytes).
+2026-06-25 04:04:52.768 +03:00 [INFO] plugin:Patches - Bot AI AllSkill_KeepMoving_WhenSeeSniper: applied.
+2026-06-25 04:04:52.769 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_CanStrafe_jne' patched at 0x79E1B49E8967 (2 bytes).
+2026-06-25 04:04:52.769 +03:00 [INFO] plugin:Patches - Bot AI AttackState_CanStrafe_jne: applied.
+2026-06-25 04:04:52.770 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_DodgeDuringReload' patched at 0x79E1B49E7DAE (6 bytes).
+2026-06-25 04:04:52.770 +03:00 [INFO] plugin:Patches - Bot AI AttackState_DodgeDuringReload: applied.
+2026-06-25 04:04:52.772 +03:00 [INFO] plugin:Patches - Bot AI 'SniperCrouchDodge_jb' patched at 0x79E1B49E7D8F (6 bytes).
+2026-06-25 04:04:52.772 +03:00 [INFO] plugin:Patches - Bot AI SniperCrouchDodge_jb: applied.
+2026-06-25 04:04:52.775 +03:00 [INFO] plugin:Patches - Bot AI 'SniperDodge_SkipIsSniper_DodgeA' patched at 0x79E1B49E7DDA (6 bytes).
+2026-06-25 04:04:52.775 +03:00 [INFO] plugin:Patches - Bot AI SniperDodge_SkipIsSniper_DodgeA: applied.
+2026-06-25 04:04:52.780 +03:00 [INFO] plugin:Patches - Bot AI 'LowSKill_JumpChance0' patched at 0x79E1B5128BCD (2 bytes).
+2026-06-25 04:04:52.781 +03:00 [INFO] plugin:Patches - Bot AI LowSKill_JumpChance0: applied.
+2026-06-25 04:04:52.781 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_SkipIsMovingGate' patched at 0x79E1B495D7D6 (6 bytes).
+2026-06-25 04:04:52.782 +03:00 [INFO] plugin:Patches - Bot AI Vision_SkipIsMovingGate: applied.
+2026-06-25 04:04:52.782 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_AlwaysEnterApproachBody' patched at 0x79E1B495DEF7 (6 bytes).
+2026-06-25 04:04:52.782 +03:00 [INFO] plugin:Patches - Bot AI Vision_AlwaysEnterApproachBody: applied.
+2026-06-25 04:04:52.783 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_AlwaysWatchApproachPoints' patched at 0x79E1B495DE00 (6 bytes).
+2026-06-25 04:04:52.784 +03:00 [INFO] plugin:Patches - Bot AI Vision_AlwaysWatchApproachPoints: applied.
+2026-06-25 04:04:52.784 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_ApproachBody_SkipSkillCheck' patched at 0x79E1B495DD11 (2 bytes).
+2026-06-25 04:04:52.785 +03:00 [INFO] plugin:Patches - Bot AI Vision_ApproachBody_SkipSkillCheck: applied.
+2026-06-25 04:04:52.787 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_ApproachBody_SkipHidingSpotCheck' patched at 0x79E1B495DD55 (2 bytes).
+2026-06-25 04:04:52.787 +03:00 [INFO] plugin:Patches - Bot AI Vision_ApproachBody_SkipHidingSpotCheck: applied.
+2026-06-25 04:04:52.787 +03:00 [INFO] plugin:Patches - Bot AI 'IsNoticable_AlwaysTrue' patched at 0x79E1B4948870 (3 bytes).
+2026-06-25 04:04:52.788 +03:00 [INFO] plugin:Patches - Bot AI IsNoticable_AlwaysTrue: applied.
+2026-06-25 04:04:52.790 +03:00 [INFO] plugin:Patches - Bot AI 'InViewCone_RemoveOuterFOV' patched at 0x79E1B493D4E9 (2 bytes).
+2026-06-25 04:04:52.790 +03:00 [INFO] plugin:Patches - Bot AI InViewCone_RemoveOuterFOV: applied.
+2026-06-25 04:04:52.792 +03:00 [INFO] plugin:Patches - Bot AI 'InViewCone_RemoveInnerFOV' patched at 0x79E1B493D508 (3 bytes).
+2026-06-25 04:04:52.792 +03:00 [INFO] plugin:Patches - Bot AI InViewCone_RemoveInnerFOV: applied.
+2026-06-25 04:04:52.794 +03:00 [INFO] plugin:Patches - Bot AI 'InvestigateNoise_SkipSelfDefenseCheck' patched at 0x79E1B49F4834 (2 bytes).
+2026-06-25 04:04:52.794 +03:00 [INFO] plugin:Patches - Bot AI InvestigateNoise_SkipSelfDefenseCheck: applied.
+2026-06-25 04:04:52.795 +03:00 [INFO] plugin:Patches - Bot AI 'OnAudibleEvent_GlobalHearRange' patched at 0x79E1B4959068 (6 bytes).
+2026-06-25 04:04:52.795 +03:00 [INFO] plugin:Patches - Bot AI OnAudibleEvent_GlobalHearRange: applied.
+2026-06-25 04:04:52.797 +03:00 [INFO] plugin:Patches - Bot AI 'TBot_BombsiteSearch_UseKnownPlantedSite' patched at 0x79E1B49E28BF (5 bytes).
+2026-06-25 04:04:52.798 +03:00 [INFO] plugin:Patches - Bot AI TBot_BombsiteSearch_UseKnownPlantedSite: applied.
+2026-06-25 04:04:52.799 +03:00 [INFO] plugin:Patches - Bot AI 'BombPickup_CT_GlobalHearRange' patched at 0x79E1B49DE4F1 (2 bytes).
+2026-06-25 04:04:52.799 +03:00 [INFO] plugin:Patches - Bot AI BombPickup_CT_GlobalHearRange: applied.
+2026-06-25 04:04:52.800 +03:00 [INFO] plugin:Patches - Bot AI 'BombBeep_CT_GlobalHearRange' patched at 0x79E1B4951D28 (6 bytes).
+2026-06-25 04:04:52.800 +03:00 [INFO] plugin:Patches - Bot AI BombBeep_CT_GlobalHearRange: applied.
+2026-06-25 04:04:52.802 +03:00 [INFO] plugin:Patches - Bot AI 'OnBombPlanted_AllBotsLearnSite' patched at 0x79E1B49754FA (6 bytes).
+2026-06-25 04:04:52.802 +03:00 [INFO] plugin:Patches - Bot AI OnBombPlanted_AllBotsLearnSite: applied.
+2026-06-25 04:04:52.805 +03:00 [INFO] plugin:Patches - Bot AI 'CT_Defuse_EngageAndInvestigate' patched at 0x79E1B49E2010 (5 bytes).
+2026-06-25 04:04:52.805 +03:00 [INFO] plugin:Patches - Bot AI CT_Defuse_EngageAndInvestigate: applied.
+2026-06-25 04:04:52.806 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombState_OnUpdate_EngageAndInvestigate' patched at 0x79E1B49DE276 (5 bytes).
+2026-06-25 04:04:52.806 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombState_OnUpdate_EngageAndInvestigate: applied.
+2026-06-25 04:04:52.807 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombState_OnEnter_EngageAndInvestigate' patched at 0x79E1B49DB8CA (5 bytes).
+2026-06-25 04:04:52.808 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombState_OnEnter_EngageAndInvestigate: applied.
+2026-06-25 04:04:52.810 +03:00 [INFO] plugin:Patches - Bot AI 'FlashbangAvoidance_Disable' patched at 0x79E1B49735E4 (14 bytes).
+2026-06-25 04:04:52.810 +03:00 [INFO] plugin:Patches - Bot AI FlashbangAvoidance_Disable: applied.
+2026-06-25 04:04:52.810 +03:00 [INFO] plugin:Patches - Bot AI Applied 40/40 patches.
+2026-06-25 04:04:52.810 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-25 04:04:52.814 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-25 04:04:52.816 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-25 04:04:52.820 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-25 04:04:52.849 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-25 04:04:52.857 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-25 04:04:52.858 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-25 04:04:52.862 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-25 04:04:52.864 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-25 04:04:52.868 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RoundDamageRecap
+2026-06-25 04:04:52.869 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RoundDamageRecap
+2026-06-25 04:04:52.873 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotHiderImpl
+2026-06-25 04:04:52.994 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotHiderImpl
+2026-06-25 04:04:53.007 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-25 04:04:53.122 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-25 04:04:53.128 +03:00 [INFO] (cssharp:PluginContext) Loading plugin NadeSystem
+2026-06-25 04:04:53.165 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin NadeSystem
+2026-06-25 04:04:53.169 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-25 04:04:53.177 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-25 04:04:53.482 +03:00 [WARN] plugin:CS2-SimpleAdmin (RELEASE) Plugin is outdated! Check https://github.com/daffyyyy/CS2-SimpleAdmin
+2026-06-25 04:04:55.956 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ban` with aliases: `css_ban`
+2026-06-25 04:04:55.956 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addban` with aliases: `css_addban`
+2026-06-25 04:04:55.956 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_banip` with aliases: `css_banip`
+2026-06-25 04:04:55.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unban` with aliases: `css_unban`
+2026-06-25 04:04:55.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warn` with aliases: `css_warn`
+2026-06-25 04:04:55.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unwarn` with aliases: `css_unwarn`
+2026-06-25 04:04:55.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_asay` with aliases: `css_asay`
+2026-06-25 04:04:55.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cssay` with aliases: `css_cssay`
+2026-06-25 04:04:55.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_say` with aliases: `css_say`
+2026-06-25 04:04:55.957 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_psay` with aliases: `css_psay`
+2026-06-25 04:04:55.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_csay` with aliases: `css_csay`
+2026-06-25 04:04:55.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hsay` with aliases: `css_hsay`
+2026-06-25 04:04:55.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_penalties` with aliases: `css_penalties, css_mypenalties, css_comms`
+2026-06-25 04:04:55.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_admin` with aliases: `css_admin`
+2026-06-25 04:04:55.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminhelp` with aliases: `css_adminhelp`
+2026-06-25 04:04:55.958 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addadmin` with aliases: `css_addadmin`
+2026-06-25 04:04:55.959 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_deladmin` with aliases: `css_deladmin`
+2026-06-25 04:04:55.959 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgroup` with aliases: `css_addgroup`
+2026-06-25 04:04:55.959 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_delgroup` with aliases: `css_delgroup`
+2026-06-25 04:04:55.959 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadadmins` with aliases: `css_reloadadmins`
+2026-06-25 04:04:55.959 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_reloadbans` with aliases: `css_reloadbans`
+2026-06-25 04:04:55.959 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hide` with aliases: `css_hide, css_stealth`
+2026-06-25 04:04:55.959 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_hidecomms` with aliases: `css_hidecomms`
+2026-06-25 04:04:55.959 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_who` with aliases: `css_who`
+2026-06-25 04:04:55.959 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_disconnected` with aliases: `css_disconnected, css_last`
+2026-06-25 04:04:55.959 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_warns` with aliases: `css_warns`
+2026-06-25 04:04:55.960 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_players` with aliases: `css_players`
+2026-06-25 04:04:55.960 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_kick` with aliases: `css_kick`
+2026-06-25 04:04:55.960 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_map` with aliases: `css_map, css_changemap`
+2026-06-25 04:04:55.960 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_wsmap` with aliases: `css_wsmap, css_changewsmap, css_workshop`
+2026-06-25 04:04:55.960 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_cvar` with aliases: `css_cvar`
+2026-06-25 04:04:55.960 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rcon` with aliases: `css_rcon`
+2026-06-25 04:04:55.960 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rr` with aliases: `css_rr, css_rg, css_restart, css_restartgame`
+2026-06-25 04:04:55.960 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_gag` with aliases: `css_gag`
+2026-06-25 04:04:55.961 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addgag` with aliases: `css_addgag`
+2026-06-25 04:04:55.961 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_ungag` with aliases: `css_ungag`
+2026-06-25 04:04:55.961 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_mute` with aliases: `css_mute`
+2026-06-25 04:04:55.961 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addmute` with aliases: `css_addmute`
+2026-06-25 04:04:55.961 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unmute` with aliases: `css_unmute`
+2026-06-25 04:04:55.961 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_silence` with aliases: `css_silence`
+2026-06-25 04:04:55.961 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_addsilence` with aliases: `css_addsilence`
+2026-06-25 04:04:55.962 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_unsilence` with aliases: `css_unsilence`
+2026-06-25 04:04:55.962 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_vote` with aliases: `css_vote`
+2026-06-25 04:04:55.962 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slay` with aliases: `css_slay`
+2026-06-25 04:04:55.962 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_slap` with aliases: `css_slap`
+2026-06-25 04:04:55.962 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_team` with aliases: `css_team`
+2026-06-25 04:04:55.962 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_rename` with aliases: `css_rename`
+2026-06-25 04:04:55.962 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_prename` with aliases: `css_prename`
+2026-06-25 04:04:55.962 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_resize` with aliases: `css_resize, css_size`
+2026-06-25 04:04:55.962 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_tp` with aliases: `css_tp, css_tpto, css_goto`
+2026-06-25 04:04:55.963 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_bring` with aliases: `css_bring, css_tphere`
+2026-06-25 04:04:55.963 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_pluginsmanager` with aliases: `css_pluginsmanager, css_pluginmanager`
+2026-06-25 04:04:55.963 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Registering command: `css_adminvoice` with aliases: `css_adminvoice, css_listenall`
+2026-06-25 04:04:56.503 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded server with ip 31.43.104.167
+2026-06-25 04:04:59.635 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) Loaded admins!
+2026-06-25 04:05:01.636 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 04:05:03.635 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-25 04:07:08.298 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 04:07:10.490 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 04:08:24.845 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 04:08:27.073 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 04:08:47.935 +03:00 [INFO] plugin:BotAimImprover [BotAimImprover] Active: first override (weapon=weapon_glock point=JAW).
+2026-06-25 04:09:37.188 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
+2026-06-25 04:09:39.448 +03:00 [INFO] plugin:CS2-SimpleAdmin (RELEASE) [BAN CHECK] Player Greedy Wizard (76561199568731135) IP: 172.18.0.1 - BanType: 1 - CheckMultiAccounts: True - isBanned: False
