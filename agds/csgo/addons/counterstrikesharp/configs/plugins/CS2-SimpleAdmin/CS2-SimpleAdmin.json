@@ -207,33 +207,33 @@
     "CustomServerCommands": [
         {
             "Flag": "@css/root",
-            "DisplayName": "Competitive VIT (T) vs NAV (CT)",
-            "Command": "exec custom/_comp_vit_t_nav_ct"
+            "DisplayName": "VIT (T) vs NAV (CT)",
+            "Command": "vit_nav"
         },
         {
             "Flag": "@css/root",
-            "DisplayName": "Competitive (T) vs VIT (CT)",
-            "Command": "exec custom/_comp_vit_ct"
+            "DisplayName": "You (T) vs VIT (CT)",
+            "Command": "vit_ct"
         },
         {
             "Flag": "@css/root",
-            "DisplayName": "Competitive VIT (T) vs (CT)",
-            "Command": "exec custom/_comp_vit_t"
+            "DisplayName": "VIT (T) vs You (CT)",
+            "Command": "vit_t"
         },
         {
             "Flag": "@css/root",
-            "DisplayName": "Competitive NAV (T) vs VIT (CT)",
-            "Command": "exec custom/_comp_nav_t_vit_ct"
+            "DisplayName": "NAV (T) vs VIT (CT)",
+            "Command": "nav_vit"
         },
         {
             "Flag": "@css/root",
-            "DisplayName": "Competitive (T) vs NAVI (CT)",
-            "Command": "exec custom/_comp_nav_ct"
+            "DisplayName": "You (T) vs NAVI (CT)",
+            "Command": "nav_ct"
         },
         {
             "Flag": "@css/root",
-            "DisplayName": "Competitive NAVI (T) vs (CT)",
-            "Command": "exec custom/_comp_nav_t"
+            "DisplayName": "NAVI (T) vs You (CT)",
+            "Command": "nav_t"
         },
         {
             "Flag": "@css/root",

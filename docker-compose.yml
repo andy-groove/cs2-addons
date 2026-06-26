@@ -31,9 +31,9 @@ services:
             - CS2_HOST_WORKSHOP_MAP                           # The workshop map to use. If collection is also defined, this is the starting map.
       
             # Bots
-            - CS2_BOT_DIFFICULTY                              # (0 - easy, 1 - normal, 2 - hard, 3 - expert)
-            - CS2_BOT_QUOTA                                   # (Number of bots)
-            - CS2_BOT_QUOTA_MODE                              # (fill, competitive)
+            - CS2_BOT_DIFFICULTY=3                            # (0 - easy, 1 - normal, 2 - hard, 3 - expert)
+            - CS2_BOT_QUOTA=0                                 # (Number of bots)
+            - CS2_BOT_QUOTA_MODE=fill                         # (fill, competitive)
 
             # TV
             - TV_AUTORECORD=0                                 # Automatically records all games as CSTV demos: 0=off, 1=on.

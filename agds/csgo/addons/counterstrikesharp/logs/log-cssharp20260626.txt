@@ -1,0 +1,97 @@
+2026-06-26 03:16:47.325 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-26 03:16:47.413 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-26 03:16:47.419 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-26 03:16:47.421 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-26 03:16:47.429 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-26 03:16:47.429 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-26 03:16:47.430 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-26 03:16:47.688 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-26 03:16:47.726 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-26 03:16:47.752 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotRandomizer
+2026-06-26 03:16:47.868 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotRandomizer
+2026-06-26 03:16:47.874 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RayTraceImpl
+2026-06-26 03:16:47.875 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RayTraceImpl
+2026-06-26 03:16:47.881 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-26 03:16:47.971 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-26 03:16:47.976 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-26 03:16:47.978 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-26 03:16:47.984 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-26 03:16:48.024 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-26 03:16:48.035 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-26 03:16:48.036 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-26 03:16:48.041 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-26 03:16:48.044 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-26 03:16:48.049 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RoundDamageRecap
+2026-06-26 03:16:48.050 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RoundDamageRecap
+2026-06-26 03:16:48.055 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotHiderImpl
+2026-06-26 03:16:48.187 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotHiderImpl
+2026-06-26 03:16:48.201 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-26 03:16:48.324 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-26 03:16:48.332 +03:00 [INFO] (cssharp:PluginContext) Loading plugin NadeSystem
+2026-06-26 03:16:48.397 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin NadeSystem
+2026-06-26 03:16:48.402 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-26 03:16:48.412 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-26 03:16:56.777 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-26 03:16:58.776 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-26 03:23:04.714 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RetakesPlugin
+2026-06-26 03:23:04.722 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Retakes Plugin
+2026-06-26 03:23:04.728 +03:00 [INFO] (cssharp:PluginContext) Loading plugin InstadefusePlugin
+2026-06-26 03:23:04.732 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Instadefuse Plugin
+2026-06-26 03:23:04.738 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ClutchAnnouncePlugin
+2026-06-26 03:23:04.740 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Clutch Announce Plugin
+2026-06-26 03:34:46.124 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Clutch Announce Plugin
+2026-06-26 03:34:46.126 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Clutch Announce Plugin
+2026-06-26 03:34:46.131 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Instadefuse Plugin
+2026-06-26 03:34:46.131 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Instadefuse Plugin
+2026-06-26 03:34:46.131 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin Retakes Plugin
+2026-06-26 03:34:46.132 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin Retakes Plugin
+2026-06-26 03:39:11.211 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RetakesPlugin
+2026-06-26 03:39:11.212 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Retakes Plugin
+2026-06-26 03:39:11.217 +03:00 [INFO] (cssharp:PluginContext) Loading plugin InstadefusePlugin
+2026-06-26 03:39:11.218 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Instadefuse Plugin
+2026-06-26 03:39:11.221 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ClutchAnnouncePlugin
+2026-06-26 03:39:11.222 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Clutch Announce Plugin
+2026-06-26 04:13:15.294 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-06-26 04:13:15.354 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-06-26 04:13:15.357 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-06-26 04:13:15.359 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-06-26 04:13:15.365 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-26 04:13:15.365 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-06-26 04:13:15.366 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-06-26 04:13:15.520 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAimImprover
+2026-06-26 04:13:15.547 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotAimImprover
+2026-06-26 04:13:15.569 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotRandomizer
+2026-06-26 04:13:15.686 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotRandomizer
+2026-06-26 04:13:15.691 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RayTraceImpl
+2026-06-26 04:13:15.692 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RayTraceImpl
+2026-06-26 04:13:15.697 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotAI
+2026-06-26 04:13:15.788 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Patches - Bot AI
+2026-06-26 04:13:15.793 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotBuy
+2026-06-26 04:13:15.794 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotBuyPatch
+2026-06-26 04:13:15.799 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2026-06-26 04:13:15.830 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2026-06-26 04:13:15.839 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2_ExecAfter
+2026-06-26 04:13:15.840 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2_ExecAfter
+2026-06-26 04:13:15.845 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotState
+2026-06-26 04:13:15.847 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Smarter-Bot
+2026-06-26 04:13:15.851 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RoundDamageRecap
+2026-06-26 04:13:15.852 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RoundDamageRecap
+2026-06-26 04:13:15.855 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BotHiderImpl
+2026-06-26 04:13:15.983 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BotHiderImpl
+2026-06-26 04:13:15.998 +03:00 [INFO] (cssharp:PluginContext) Loading plugin CS2-SimpleAdmin
+2026-06-26 04:13:16.113 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin CS2-SimpleAdmin (RELEASE)
+2026-06-26 04:13:16.119 +03:00 [INFO] (cssharp:PluginContext) Loading plugin NadeSystem
+2026-06-26 04:13:16.156 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin NadeSystem
+2026-06-26 04:13:16.161 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2026-06-26 04:13:16.169 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2026-06-26 04:13:24.632 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-26 04:13:26.646 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2026-06-26 04:16:47.355 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at BotBuyPatch.BotBuyPatch.<>c__DisplayClass18_0.<OnRoundStart>b__8() in C:\Games\BETTERBOTS\FINAL\BotBuy\BotBuy.cs:line 295
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 101

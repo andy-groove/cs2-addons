@@ -1,0 +1,164 @@
+2026-06-26 03:16:47.883 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-06-26 03:16:47.896 +03:00 [INFO] plugin:Patches - Bot AI 'HasVisitedEnemySpawn' patched at 0x72FAF5E92980 (7 bytes).
+2026-06-26 03:16:47.897 +03:00 [INFO] plugin:Patches - Bot AI HasVisitedEnemySpawn: applied.
+2026-06-26 03:16:47.900 +03:00 [INFO] plugin:Patches - Bot AI 'GameState_Reset' patched at 0x72FAF5B6416E (8 bytes).
+2026-06-26 03:16:47.901 +03:00 [INFO] plugin:Patches - Bot AI GameState_Reset: applied.
+2026-06-26 03:16:47.903 +03:00 [INFO] plugin:Patches - Bot AI 'Idle_IsSafeAlwaysFalse' patched at 0x72FAF53E35B2 (2 bytes).
+2026-06-26 03:16:47.903 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse: applied.
+2026-06-26 03:16:47.905 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromBomb_OnEnter_NoEquipKnife' patched at 0x72FAF53E9861 (5 bytes).
+2026-06-26 03:16:47.905 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromBomb_OnEnter_NoEquipKnife: applied.
+2026-06-26 03:16:47.907 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromBomb_OnUpdate_NoEquipKnife' patched at 0x72FAF53E06D9 (5 bytes).
+2026-06-26 03:16:47.907 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromBomb_OnUpdate_NoEquipKnife: applied.
+2026-06-26 03:16:47.908 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromFlames_OnEnter_NoEquipKnife' patched at 0x72FAF53E9943 (5 bytes).
+2026-06-26 03:16:47.909 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife: applied.
+2026-06-26 03:16:47.911 +03:00 [INFO] plugin:Patches - Bot AI 'PlantBombLookAtPriorityLow' patched at 0x72FAF53DCA0F (5 bytes).
+2026-06-26 03:16:47.911 +03:00 [INFO] plugin:Patches - Bot AI PlantBombLookAtPriorityLow: applied.
+2026-06-26 03:16:47.913 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombLookAtPriorityLow' patched at 0x72FAF53DE2A8 (5 bytes).
+2026-06-26 03:16:47.913 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombLookAtPriorityLow: applied.
+2026-06-26 03:16:47.915 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBomb_SkipIsVisibleCheck' patched at 0x72FAF53DEF8A (6 bytes).
+2026-06-26 03:16:47.915 +03:00 [INFO] plugin:Patches - Bot AI DefuseBomb_SkipIsVisibleCheck: applied.
+2026-06-26 03:16:47.915 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipFireRateCheck' patched at 0x72FAF51E8B38 (6 bytes).
+2026-06-26 03:16:47.915 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipFireRateCheck: applied.
+2026-06-26 03:16:47.916 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipSteadyFireShortcut' patched at 0x72FAF53E9248 (6 bytes).
+2026-06-26 03:16:47.916 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipSteadyFireShortcut: applied.
+2026-06-26 03:16:47.917 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipZoomFireShortcut' patched at 0x72FAF53E9573 (6 bytes).
+2026-06-26 03:16:47.918 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipZoomFireShortcut: applied.
+2026-06-26 03:16:47.919 +03:00 [INFO] plugin:Patches - Bot AI 'SprayAllDistances_ForceHoldTrigger' patched at 0x72FAF53E97B9 (5 bytes).
+2026-06-26 03:16:47.919 +03:00 [INFO] plugin:Patches - Bot AI SprayAllDistances_ForceHoldTrigger: applied.
+2026-06-26 03:16:47.922 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_DodgeChance100_Always' patched at 0x72FAF53E7E32 (6 bytes).
+2026-06-26 03:16:47.922 +03:00 [INFO] plugin:Patches - Bot AI AttackState_DodgeChance100_Always: applied.
+2026-06-26 03:16:47.925 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_RetreatOnSniper_Disable' patched at 0x72FAF53E8D83 (6 bytes).
+2026-06-26 03:16:47.925 +03:00 [INFO] plugin:Patches - Bot AI AttackState_RetreatOnSniper_Disable: applied.
+2026-06-26 03:16:47.928 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipSniperSpreadCheck' patched at 0x72FAF53E959D (6 bytes).
+2026-06-26 03:16:47.928 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipSniperSpreadCheck: applied.
+2026-06-26 03:16:47.930 +03:00 [INFO] plugin:Patches - Bot AI 'AllSkill_KeepMoving_WhenSeeSniper' patched at 0x72FAF5373BFA (2 bytes).
+2026-06-26 03:16:47.930 +03:00 [INFO] plugin:Patches - Bot AI AllSkill_KeepMoving_WhenSeeSniper: applied.
+2026-06-26 03:16:47.931 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_CanStrafe_jne' patched at 0x72FAF53E8967 (2 bytes).
+2026-06-26 03:16:47.931 +03:00 [INFO] plugin:Patches - Bot AI AttackState_CanStrafe_jne: applied.
+2026-06-26 03:16:47.932 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_DodgeDuringReload' patched at 0x72FAF53E7DAE (6 bytes).
+2026-06-26 03:16:47.932 +03:00 [INFO] plugin:Patches - Bot AI AttackState_DodgeDuringReload: applied.
+2026-06-26 03:16:47.934 +03:00 [INFO] plugin:Patches - Bot AI 'SniperCrouchDodge_jb' patched at 0x72FAF53E7D8F (6 bytes).
+2026-06-26 03:16:47.934 +03:00 [INFO] plugin:Patches - Bot AI SniperCrouchDodge_jb: applied.
+2026-06-26 03:16:47.937 +03:00 [INFO] plugin:Patches - Bot AI 'SniperDodge_SkipIsSniper_DodgeA' patched at 0x72FAF53E7DDA (6 bytes).
+2026-06-26 03:16:47.937 +03:00 [INFO] plugin:Patches - Bot AI SniperDodge_SkipIsSniper_DodgeA: applied.
+2026-06-26 03:16:47.942 +03:00 [INFO] plugin:Patches - Bot AI 'LowSKill_JumpChance0' patched at 0x72FAF5B28BCD (2 bytes).
+2026-06-26 03:16:47.942 +03:00 [INFO] plugin:Patches - Bot AI LowSKill_JumpChance0: applied.
+2026-06-26 03:16:47.943 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_SkipIsMovingGate' patched at 0x72FAF535D7D6 (6 bytes).
+2026-06-26 03:16:47.943 +03:00 [INFO] plugin:Patches - Bot AI Vision_SkipIsMovingGate: applied.
+2026-06-26 03:16:47.944 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_AlwaysEnterApproachBody' patched at 0x72FAF535DEF7 (6 bytes).
+2026-06-26 03:16:47.944 +03:00 [INFO] plugin:Patches - Bot AI Vision_AlwaysEnterApproachBody: applied.
+2026-06-26 03:16:47.945 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_AlwaysWatchApproachPoints' patched at 0x72FAF535DE00 (6 bytes).
+2026-06-26 03:16:47.945 +03:00 [INFO] plugin:Patches - Bot AI Vision_AlwaysWatchApproachPoints: applied.
+2026-06-26 03:16:47.946 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_ApproachBody_SkipSkillCheck' patched at 0x72FAF535DD11 (2 bytes).
+2026-06-26 03:16:47.946 +03:00 [INFO] plugin:Patches - Bot AI Vision_ApproachBody_SkipSkillCheck: applied.
+2026-06-26 03:16:47.948 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_ApproachBody_SkipHidingSpotCheck' patched at 0x72FAF535DD55 (2 bytes).
+2026-06-26 03:16:47.948 +03:00 [INFO] plugin:Patches - Bot AI Vision_ApproachBody_SkipHidingSpotCheck: applied.
+2026-06-26 03:16:47.949 +03:00 [INFO] plugin:Patches - Bot AI 'IsNoticable_AlwaysTrue' patched at 0x72FAF5348870 (3 bytes).
+2026-06-26 03:16:47.949 +03:00 [INFO] plugin:Patches - Bot AI IsNoticable_AlwaysTrue: applied.
+2026-06-26 03:16:47.951 +03:00 [INFO] plugin:Patches - Bot AI 'InViewCone_RemoveOuterFOV' patched at 0x72FAF533D4E9 (2 bytes).
+2026-06-26 03:16:47.951 +03:00 [INFO] plugin:Patches - Bot AI InViewCone_RemoveOuterFOV: applied.
+2026-06-26 03:16:47.953 +03:00 [INFO] plugin:Patches - Bot AI 'InViewCone_RemoveInnerFOV' patched at 0x72FAF533D508 (3 bytes).
+2026-06-26 03:16:47.953 +03:00 [INFO] plugin:Patches - Bot AI InViewCone_RemoveInnerFOV: applied.
+2026-06-26 03:16:47.954 +03:00 [INFO] plugin:Patches - Bot AI 'InvestigateNoise_SkipSelfDefenseCheck' patched at 0x72FAF53F4834 (2 bytes).
+2026-06-26 03:16:47.955 +03:00 [INFO] plugin:Patches - Bot AI InvestigateNoise_SkipSelfDefenseCheck: applied.
+2026-06-26 03:16:47.955 +03:00 [INFO] plugin:Patches - Bot AI 'OnAudibleEvent_GlobalHearRange' patched at 0x72FAF5359068 (6 bytes).
+2026-06-26 03:16:47.956 +03:00 [INFO] plugin:Patches - Bot AI OnAudibleEvent_GlobalHearRange: applied.
+2026-06-26 03:16:47.958 +03:00 [INFO] plugin:Patches - Bot AI 'TBot_BombsiteSearch_UseKnownPlantedSite' patched at 0x72FAF53E28BF (5 bytes).
+2026-06-26 03:16:47.958 +03:00 [INFO] plugin:Patches - Bot AI TBot_BombsiteSearch_UseKnownPlantedSite: applied.
+2026-06-26 03:16:47.960 +03:00 [INFO] plugin:Patches - Bot AI 'BombPickup_CT_GlobalHearRange' patched at 0x72FAF53DE4F1 (2 bytes).
+2026-06-26 03:16:47.960 +03:00 [INFO] plugin:Patches - Bot AI BombPickup_CT_GlobalHearRange: applied.
+2026-06-26 03:16:47.961 +03:00 [INFO] plugin:Patches - Bot AI 'BombBeep_CT_GlobalHearRange' patched at 0x72FAF5351D28 (6 bytes).
+2026-06-26 03:16:47.961 +03:00 [INFO] plugin:Patches - Bot AI BombBeep_CT_GlobalHearRange: applied.
+2026-06-26 03:16:47.963 +03:00 [INFO] plugin:Patches - Bot AI 'OnBombPlanted_AllBotsLearnSite' patched at 0x72FAF53754FA (6 bytes).
+2026-06-26 03:16:47.963 +03:00 [INFO] plugin:Patches - Bot AI OnBombPlanted_AllBotsLearnSite: applied.
+2026-06-26 03:16:47.966 +03:00 [INFO] plugin:Patches - Bot AI 'CT_Defuse_EngageAndInvestigate' patched at 0x72FAF53E2010 (5 bytes).
+2026-06-26 03:16:47.966 +03:00 [INFO] plugin:Patches - Bot AI CT_Defuse_EngageAndInvestigate: applied.
+2026-06-26 03:16:47.967 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombState_OnUpdate_EngageAndInvestigate' patched at 0x72FAF53DE276 (5 bytes).
+2026-06-26 03:16:47.967 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombState_OnUpdate_EngageAndInvestigate: applied.
+2026-06-26 03:16:47.968 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombState_OnEnter_EngageAndInvestigate' patched at 0x72FAF53DB8CA (5 bytes).
+2026-06-26 03:16:47.968 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombState_OnEnter_EngageAndInvestigate: applied.
+2026-06-26 03:16:47.971 +03:00 [INFO] plugin:Patches - Bot AI 'FlashbangAvoidance_Disable' patched at 0x72FAF53735E4 (14 bytes).
+2026-06-26 03:16:47.971 +03:00 [INFO] plugin:Patches - Bot AI FlashbangAvoidance_Disable: applied.
+2026-06-26 03:16:47.971 +03:00 [INFO] plugin:Patches - Bot AI Applied 40/40 patches.
+2026-06-26 04:13:15.700 +03:00 [INFO] plugin:Patches - Bot AI Bot AI Patches loading...
+2026-06-26 04:13:15.712 +03:00 [INFO] plugin:Patches - Bot AI 'HasVisitedEnemySpawn' patched at 0x7FF4C9C92980 (7 bytes).
+2026-06-26 04:13:15.712 +03:00 [INFO] plugin:Patches - Bot AI HasVisitedEnemySpawn: applied.
+2026-06-26 04:13:15.717 +03:00 [INFO] plugin:Patches - Bot AI 'GameState_Reset' patched at 0x7FF4C996416E (8 bytes).
+2026-06-26 04:13:15.718 +03:00 [INFO] plugin:Patches - Bot AI GameState_Reset: applied.
+2026-06-26 04:13:15.721 +03:00 [INFO] plugin:Patches - Bot AI 'Idle_IsSafeAlwaysFalse' patched at 0x7FF4C91E35B2 (2 bytes).
+2026-06-26 04:13:15.721 +03:00 [INFO] plugin:Patches - Bot AI Idle_IsSafeAlwaysFalse: applied.
+2026-06-26 04:13:15.722 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromBomb_OnEnter_NoEquipKnife' patched at 0x7FF4C91E9861 (5 bytes).
+2026-06-26 04:13:15.722 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromBomb_OnEnter_NoEquipKnife: applied.
+2026-06-26 04:13:15.724 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromBomb_OnUpdate_NoEquipKnife' patched at 0x7FF4C91E06D9 (5 bytes).
+2026-06-26 04:13:15.725 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromBomb_OnUpdate_NoEquipKnife: applied.
+2026-06-26 04:13:15.725 +03:00 [INFO] plugin:Patches - Bot AI 'EscapeFromFlames_OnEnter_NoEquipKnife' patched at 0x7FF4C91E9943 (5 bytes).
+2026-06-26 04:13:15.726 +03:00 [INFO] plugin:Patches - Bot AI EscapeFromFlames_OnEnter_NoEquipKnife: applied.
+2026-06-26 04:13:15.728 +03:00 [INFO] plugin:Patches - Bot AI 'PlantBombLookAtPriorityLow' patched at 0x7FF4C91DCA0F (5 bytes).
+2026-06-26 04:13:15.728 +03:00 [INFO] plugin:Patches - Bot AI PlantBombLookAtPriorityLow: applied.
+2026-06-26 04:13:15.730 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombLookAtPriorityLow' patched at 0x7FF4C91DE2A8 (5 bytes).
+2026-06-26 04:13:15.730 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombLookAtPriorityLow: applied.
+2026-06-26 04:13:15.731 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBomb_SkipIsVisibleCheck' patched at 0x7FF4C91DEF8A (6 bytes).
+2026-06-26 04:13:15.731 +03:00 [INFO] plugin:Patches - Bot AI DefuseBomb_SkipIsVisibleCheck: applied.
+2026-06-26 04:13:15.732 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipFireRateCheck' patched at 0x7FF4C8FE8B38 (6 bytes).
+2026-06-26 04:13:15.732 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipFireRateCheck: applied.
+2026-06-26 04:13:15.733 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipSteadyFireShortcut' patched at 0x7FF4C91E9248 (6 bytes).
+2026-06-26 04:13:15.733 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipSteadyFireShortcut: applied.
+2026-06-26 04:13:15.734 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipZoomFireShortcut' patched at 0x7FF4C91E9573 (6 bytes).
+2026-06-26 04:13:15.734 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipZoomFireShortcut: applied.
+2026-06-26 04:13:15.735 +03:00 [INFO] plugin:Patches - Bot AI 'SprayAllDistances_ForceHoldTrigger' patched at 0x7FF4C91E97B9 (5 bytes).
+2026-06-26 04:13:15.735 +03:00 [INFO] plugin:Patches - Bot AI SprayAllDistances_ForceHoldTrigger: applied.
+2026-06-26 04:13:15.738 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_DodgeChance100_Always' patched at 0x7FF4C91E7E32 (6 bytes).
+2026-06-26 04:13:15.738 +03:00 [INFO] plugin:Patches - Bot AI AttackState_DodgeChance100_Always: applied.
+2026-06-26 04:13:15.741 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_RetreatOnSniper_Disable' patched at 0x7FF4C91E8D83 (6 bytes).
+2026-06-26 04:13:15.741 +03:00 [INFO] plugin:Patches - Bot AI AttackState_RetreatOnSniper_Disable: applied.
+2026-06-26 04:13:15.745 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_SkipSniperSpreadCheck' patched at 0x7FF4C91E959D (6 bytes).
+2026-06-26 04:13:15.745 +03:00 [INFO] plugin:Patches - Bot AI AttackState_SkipSniperSpreadCheck: applied.
+2026-06-26 04:13:15.747 +03:00 [INFO] plugin:Patches - Bot AI 'AllSkill_KeepMoving_WhenSeeSniper' patched at 0x7FF4C9173BFA (2 bytes).
+2026-06-26 04:13:15.747 +03:00 [INFO] plugin:Patches - Bot AI AllSkill_KeepMoving_WhenSeeSniper: applied.
+2026-06-26 04:13:15.748 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_CanStrafe_jne' patched at 0x7FF4C91E8967 (2 bytes).
+2026-06-26 04:13:15.748 +03:00 [INFO] plugin:Patches - Bot AI AttackState_CanStrafe_jne: applied.
+2026-06-26 04:13:15.749 +03:00 [INFO] plugin:Patches - Bot AI 'AttackState_DodgeDuringReload' patched at 0x7FF4C91E7DAE (6 bytes).
+2026-06-26 04:13:15.749 +03:00 [INFO] plugin:Patches - Bot AI AttackState_DodgeDuringReload: applied.
+2026-06-26 04:13:15.751 +03:00 [INFO] plugin:Patches - Bot AI 'SniperCrouchDodge_jb' patched at 0x7FF4C91E7D8F (6 bytes).
+2026-06-26 04:13:15.751 +03:00 [INFO] plugin:Patches - Bot AI SniperCrouchDodge_jb: applied.
+2026-06-26 04:13:15.754 +03:00 [INFO] plugin:Patches - Bot AI 'SniperDodge_SkipIsSniper_DodgeA' patched at 0x7FF4C91E7DDA (6 bytes).
+2026-06-26 04:13:15.754 +03:00 [INFO] plugin:Patches - Bot AI SniperDodge_SkipIsSniper_DodgeA: applied.
+2026-06-26 04:13:15.758 +03:00 [INFO] plugin:Patches - Bot AI 'LowSKill_JumpChance0' patched at 0x7FF4C9928BCD (2 bytes).
+2026-06-26 04:13:15.759 +03:00 [INFO] plugin:Patches - Bot AI LowSKill_JumpChance0: applied.
+2026-06-26 04:13:15.759 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_SkipIsMovingGate' patched at 0x7FF4C915D7D6 (6 bytes).
+2026-06-26 04:13:15.759 +03:00 [INFO] plugin:Patches - Bot AI Vision_SkipIsMovingGate: applied.
+2026-06-26 04:13:15.760 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_AlwaysEnterApproachBody' patched at 0x7FF4C915DEF7 (6 bytes).
+2026-06-26 04:13:15.760 +03:00 [INFO] plugin:Patches - Bot AI Vision_AlwaysEnterApproachBody: applied.
+2026-06-26 04:13:15.761 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_AlwaysWatchApproachPoints' patched at 0x7FF4C915DE00 (6 bytes).
+2026-06-26 04:13:15.761 +03:00 [INFO] plugin:Patches - Bot AI Vision_AlwaysWatchApproachPoints: applied.
+2026-06-26 04:13:15.762 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_ApproachBody_SkipSkillCheck' patched at 0x7FF4C915DD11 (2 bytes).
+2026-06-26 04:13:15.762 +03:00 [INFO] plugin:Patches - Bot AI Vision_ApproachBody_SkipSkillCheck: applied.
+2026-06-26 04:13:15.765 +03:00 [INFO] plugin:Patches - Bot AI 'Vision_ApproachBody_SkipHidingSpotCheck' patched at 0x7FF4C915DD55 (2 bytes).
+2026-06-26 04:13:15.765 +03:00 [INFO] plugin:Patches - Bot AI Vision_ApproachBody_SkipHidingSpotCheck: applied.
+2026-06-26 04:13:15.766 +03:00 [INFO] plugin:Patches - Bot AI 'IsNoticable_AlwaysTrue' patched at 0x7FF4C9148870 (3 bytes).
+2026-06-26 04:13:15.766 +03:00 [INFO] plugin:Patches - Bot AI IsNoticable_AlwaysTrue: applied.
+2026-06-26 04:13:15.768 +03:00 [INFO] plugin:Patches - Bot AI 'InViewCone_RemoveOuterFOV' patched at 0x7FF4C913D4E9 (2 bytes).
+2026-06-26 04:13:15.768 +03:00 [INFO] plugin:Patches - Bot AI InViewCone_RemoveOuterFOV: applied.
+2026-06-26 04:13:15.770 +03:00 [INFO] plugin:Patches - Bot AI 'InViewCone_RemoveInnerFOV' patched at 0x7FF4C913D508 (3 bytes).
+2026-06-26 04:13:15.770 +03:00 [INFO] plugin:Patches - Bot AI InViewCone_RemoveInnerFOV: applied.
+2026-06-26 04:13:15.771 +03:00 [INFO] plugin:Patches - Bot AI 'InvestigateNoise_SkipSelfDefenseCheck' patched at 0x7FF4C91F4834 (2 bytes).
+2026-06-26 04:13:15.771 +03:00 [INFO] plugin:Patches - Bot AI InvestigateNoise_SkipSelfDefenseCheck: applied.
+2026-06-26 04:13:15.772 +03:00 [INFO] plugin:Patches - Bot AI 'OnAudibleEvent_GlobalHearRange' patched at 0x7FF4C9159068 (6 bytes).
+2026-06-26 04:13:15.772 +03:00 [INFO] plugin:Patches - Bot AI OnAudibleEvent_GlobalHearRange: applied.
+2026-06-26 04:13:15.775 +03:00 [INFO] plugin:Patches - Bot AI 'TBot_BombsiteSearch_UseKnownPlantedSite' patched at 0x7FF4C91E28BF (5 bytes).
+2026-06-26 04:13:15.775 +03:00 [INFO] plugin:Patches - Bot AI TBot_BombsiteSearch_UseKnownPlantedSite: applied.
+2026-06-26 04:13:15.777 +03:00 [INFO] plugin:Patches - Bot AI 'BombPickup_CT_GlobalHearRange' patched at 0x7FF4C91DE4F1 (2 bytes).
+2026-06-26 04:13:15.777 +03:00 [INFO] plugin:Patches - Bot AI BombPickup_CT_GlobalHearRange: applied.
+2026-06-26 04:13:15.778 +03:00 [INFO] plugin:Patches - Bot AI 'BombBeep_CT_GlobalHearRange' patched at 0x7FF4C9151D28 (6 bytes).
+2026-06-26 04:13:15.778 +03:00 [INFO] plugin:Patches - Bot AI BombBeep_CT_GlobalHearRange: applied.
+2026-06-26 04:13:15.780 +03:00 [INFO] plugin:Patches - Bot AI 'OnBombPlanted_AllBotsLearnSite' patched at 0x7FF4C91754FA (6 bytes).
+2026-06-26 04:13:15.780 +03:00 [INFO] plugin:Patches - Bot AI OnBombPlanted_AllBotsLearnSite: applied.
+2026-06-26 04:13:15.783 +03:00 [INFO] plugin:Patches - Bot AI 'CT_Defuse_EngageAndInvestigate' patched at 0x7FF4C91E2010 (5 bytes).
+2026-06-26 04:13:15.783 +03:00 [INFO] plugin:Patches - Bot AI CT_Defuse_EngageAndInvestigate: applied.
+2026-06-26 04:13:15.784 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombState_OnUpdate_EngageAndInvestigate' patched at 0x7FF4C91DE276 (5 bytes).
+2026-06-26 04:13:15.784 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombState_OnUpdate_EngageAndInvestigate: applied.
+2026-06-26 04:13:15.785 +03:00 [INFO] plugin:Patches - Bot AI 'DefuseBombState_OnEnter_EngageAndInvestigate' patched at 0x7FF4C91DB8CA (5 bytes).
+2026-06-26 04:13:15.785 +03:00 [INFO] plugin:Patches - Bot AI DefuseBombState_OnEnter_EngageAndInvestigate: applied.
+2026-06-26 04:13:15.788 +03:00 [INFO] plugin:Patches - Bot AI 'FlashbangAvoidance_Disable' patched at 0x7FF4C91735E4 (14 bytes).
+2026-06-26 04:13:15.788 +03:00 [INFO] plugin:Patches - Bot AI FlashbangAvoidance_Disable: applied.
+2026-06-26 04:13:15.788 +03:00 [INFO] plugin:Patches - Bot AI Applied 40/40 patches.
